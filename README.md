@@ -2,7 +2,7 @@
 Scrapes the top games from each year at https://metacritic.com
 
 ## Why?
-Mostly for me to get experience with BS4, but I thought someone might also find the data sets useful.
+Mostly for me to get experience with BS4 and multithreading, but I thought someone might also find the data sets useful.
 
 ## How do I use this?
 Usage is pretty simple.
