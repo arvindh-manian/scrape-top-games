@@ -1,0 +1,902 @@
+{
+    "1": {
+        "title": "Grand Theft Auto V",
+        "date": "April 13, 2015",
+        "summary": "Los Santos: a sprawling sun-soaked metropolis full of self-help gurus, starlets and fading celebrities, once the envy of the Western world, now struggling to stay alive in a time of economic uncertainty and cheap reality TV. Amidst the turmoil, three very unique criminals plot their own chances of survival and success: Franklin, a street hustler looking for tangible opportunities and serious money; Michael, a professional ex-con whose retirement is less rosy than he figured it would be; and Trevor, a violent dude driven by the opportunity for a cheap high and his next big score. With options at a premium, the crew risks it all in a myriad of daring and dangerous heists that could set them up for life.",
+        "scores": {
+            "metascore": "96",
+            "userscore": "7.8"
+        }
+    },
+    "2": {
+        "title": "Metal Gear Solid V: The Phantom Pain",
+        "date": "September 1, 2015",
+        "summary": "Following the prologue METAL GEAR SOLID V: GROUND ZEROES, METAL GEAR SOLID V: THE PHANTOM PAIN concludes the METAL GEAR SOLID V experience by following the story of the protagonist of the series, Big Boss (a.k.a. Snake). The METAL GEAR SOLID V experience is Creator and Director Hideo Kojima's first time incorporating open world gameplay to the groundbreaking METAL GEAR franchise.",
+        "scores": {
+            "metascore": "95",
+            "userscore": "7.4"
+        }
+    },
+    "3": {
+        "title": "The Witcher 3: Wild Hunt",
+        "date": "May 18, 2015",
+        "summary": "With the Empire attacking the Kingdoms of the North and the Wild Hunt, a cavalcade of ghastly riders,  breathing down your neck, the only way to survive is to fight back. As Geralt of Rivia, a master swordsman and monster hunter, leave none of your enemies standing. Explore a gigantic open world, slay beasts and decide the fates of whole communities with your actions, all in a genuine next generation format.",
+        "scores": {
+            "metascore": "93",
+            "userscore": "9.4"
+        }
+    },
+    "4": {
+        "title": "Metal Gear Solid V: The Phantom Pain",
+        "date": "September 1, 2015",
+        "summary": "Following the prologue METAL GEAR SOLID V: GROUND ZEROES, METAL GEAR SOLID V: THE PHANTOM PAIN concludes the METAL GEAR SOLID V experience by following the story of the protagonist of the series, Big Boss (a.k.a. Snake). The METAL GEAR SOLID V experience is Creator and Director Hideo Kojima's first time incorporating open world gameplay to the groundbreaking METAL GEAR franchise.",
+        "scores": {
+            "metascore": "93",
+            "userscore": "8.2"
+        }
+    },
+    "5": {
+        "title": "Journey",
+        "date": "July 21, 2015",
+        "summary": "The pioneers that brought you the award-winning PlayStation Network titles flOw & Flower are back with another title that challenges traditional gaming conventions. With Journey, thatgamecompany (TGC) continues its tradition of delivering simple gameplay and accessible controls in a rich interactive environment that invites players to explore and experience emotional chords that are still uncommon in video games.\r\n\r\nAn exotic adventure with a more serious tone, Journey presents TGCs unique vision of an online adventure experience. Awakening in an unknown world, the player walks, glides, and flies through a vast and awe-inspiring landscape, while discovering the history of an ancient, mysterious civilization along the way.\r\n\r\nJourneys innovative approach to online play encourages players to explore this environment with strangers who cross their path from time to time. By traveling together, they can re-shape the experience  creating authentic moments they will remember and discuss with others.",
+        "scores": {
+            "metascore": "92",
+            "userscore": "8.4"
+        }
+    },
+    "6": {
+        "title": "Bloodborne",
+        "date": "March 24, 2015",
+        "summary": "Bloodborne is an action RPG in which you hunt for answers in the ancient city of Yharnam, now cursed with a strange endemic illness spreading through the streets like a disease. Peril, death and madness infest this dark world, and you're tasked with uncovering its darkest secrets which will be necessary for you to survive. Armed with a singular arsenal of weaponry, including guns and saw cleavers, you'll require wits, strategy and reflexes to dispatch the agile and intelligent enemies that guard the city's underbelly. You will utility holy chalices to access an array of vast underground ruins, chock full of traps, beasts, and rewards, to explore and conquer on your own or with other people.",
+        "scores": {
+            "metascore": "92",
+            "userscore": "8.9"
+        }
+    },
+    "7": {
+        "title": "The Witcher 3: Wild Hunt",
+        "date": "May 19, 2015",
+        "summary": "With the Empire attacking the Kingdoms of the North and the Wild Hunt, a cavalcade of ghastly riders,  breathing down your neck, the only way to survive is to fight back. As Geralt of Rivia, a master swordsman and monster hunter, leave none of your enemies standing. Explore a gigantic open world, slay beasts and decide the fates of whole communities with your actions, all in a genuine next generation format. Also known as \"The Witcher III: Wild Hunt\"",
+        "scores": {
+            "metascore": "92",
+            "userscore": "9.2"
+        }
+    },
+    "8": {
+        "title": "Undertale",
+        "date": "September 15, 2015",
+        "summary": "Welcome to UNDERTALE. In this RPG, you control a human who falls underground into the world of monsters. Now you must find your way out... or stay trapped forever.",
+        "scores": {
+            "metascore": "92",
+            "userscore": "8.4"
+        }
+    },
+    "9": {
+        "title": "The Witcher 3: Wild Hunt",
+        "date": "May 19, 2015",
+        "summary": "With the Empire attacking the Kingdoms of the North and the Wild Hunt, a cavalcade of ghastly riders,  breathing down your neck, the only way to survive is to fight back. As Geralt of Rivia, a master swordsman and monster hunter, leave none of your enemies standing. Explore a gigantic open world, slay beasts and decide the fates of whole communities with your actions, all in a genuine next generation format.",
+        "scores": {
+            "metascore": "91",
+            "userscore": "9.2"
+        }
+    },
+    "10": {
+        "title": "Metal Gear Solid V: The Phantom Pain",
+        "date": "September 1, 2015",
+        "summary": "The Soviet invasion of Afghanistan has brought a new edge to the Cold War, and in 1984, a one-eyed man with a prosthetic arm appears in the country. Those who know him call him Snake; the legendary mercenary who was once swept from the stage of history and left in a coma by American private intelligence network Cipher. Snake is accompanied by Ocelot, an old friend who saved him from attack when he finally awoke.\n\nNow, Snake's former partner Kazuhira Miller is being held by the Soviet forces in Afghanistan. Snake must undertake a solo mission to rescue Miller and prove to the world that the legendary mercenary is not dead and gone. That first step will lead to a path of vengeance against the very Cipher that slaughtered so many of Snake's men, and to a battle that will embroil the whole world...\n\nWhat started in Ground Zeroes must finish with \"V\".",
+        "scores": {
+            "metascore": "91",
+            "userscore": "7.8"
+        }
+    },
+    "11": {
+        "title": "Shovel Knight",
+        "date": "April 21, 2015",
+        "summary": "Shovel Knight is a sweeping classic action adventure game with awesome gameplay, memorable characters, and an 8-bit retro aesthetic. It's a hot mashup of new and old! You play as the eponymous Shovel Knight, a small knight with a huge quest. Shovel Knight has come to this land with two goals: to defeat the evil Enchantress and quest for his lost beloved. He wields a Shovel Blade: a multipurpose weapon whose techniques have now been lost to the ages. Always honest and helpful, Shovel Knight is a shining example of the code of Shovelry: Slash Mercilessly and Dig Tirelessly!\r\n\r\nBut, between Shovel Knight and his beloved stands a cadre of villainous knights. These terrible foes, known as The Order of No Quarter, have been dispatched to prevent Shovel Knight from reaching the Enchantress, and will pursue their mission at any cost. If you love games with perfect platforming, beautiful art, infectious music, crazy bosses, humor and levity, and real heart... Shovel Knight is for you!",
+        "scores": {
+            "metascore": "90",
+            "userscore": "7.7"
+        }
+    },
+    "12": {
+        "title": "Mario Kart 8 DLC Pack 2",
+        "date": "April 23, 2015",
+        "summary": "Downloadable goodies for MK 8 players.",
+        "scores": {
+            "metascore": "90",
+            "userscore": "8.9"
+        }
+    },
+    "13": {
+        "title": "Tales From The Borderlands: Episode 5 - The Vault of the Traveler",
+        "date": "October 20, 2015",
+        "summary": "In the final episode of the season, all hell is breaking loose. Jack is now in control of Helios' systems, and he is ready to reclaim his rightful place as king of Hyperion - with or without you. It's a mad dash to get out of the chaotic space station alive, as everyone scrambles to grab the final Gortys piece and high tail it back to Pandora. Can you guide our motley crew through perilous corporate dangers in hopes of getting some copious alien riches? Loyalties will be tested, secrets will be revealed, and explosions will be in large supply in this final chapter of Tales From The Borderlands.",
+        "scores": {
+            "metascore": "90",
+            "userscore": "7.9"
+        }
+    },
+    "14": {
+        "title": "The Witcher 3: Wild Hunt - Hearts of Stone",
+        "date": "October 12, 2015",
+        "summary": "Hearts of Stone features over ten hours of new adventures and introduces new characters, powerful monsters, unique romance, and an entirely new storyline shaped by gamer choices. The expansion also introduces a new system of Runewords that significantly affects gameplay. Each Runeword impacts a different aspect of in-game mechanics and allows the players to experiment with various strategies and tactics. [CD Projekt]",
+        "scores": {
+            "metascore": "90",
+            "userscore": "8.9"
+        }
+    },
+    "15": {
+        "title": "The Witcher 3: Wild Hunt - Hearts of Stone",
+        "date": "October 13, 2015",
+        "summary": "Hearts of Stone features over ten hours of new adventures and introduces new characters, powerful monsters, unique romance, and an entirely new storyline shaped by gamer choices. The expansion also introduces a new system of Runewords that significantly affects gameplay. Each Runeword impacts a different aspect of in-game mechanics and allows the players to experiment with various strategies and tactics. [CD Projekt]",
+        "scores": {
+            "metascore": "89",
+            "userscore": "9.1"
+        }
+    },
+    "16": {
+        "title": "The Legend of Zelda: Majora's Mask 3D",
+        "date": "February 13, 2015",
+        "summary": "The Skull Kid personifies the mischief and mystery of the Lost Woods, but a cursed mask has now morphed him into something exceedingly more terrifying. When he dupes Link into entering a land called Termina, the Hero of Time faces a pressing challenge in a strange, new land: stop the moon from ending the world in three days. Don't panic! You'll have some time-twisting tunes and magical masks to help you make it to tomorrow. [Nintendo]",
+        "scores": {
+            "metascore": "89",
+            "userscore": "8.9"
+        }
+    },
+    "17": {
+        "title": "Pillars of Eternity",
+        "date": "March 26, 2015",
+        "summary": "Eternity aims to recapture the magic, imagination, depth, and nostalgia of classic RPG's that Obsidian enjoyed making - and playing. Eternity takes the central hero, memorable companions and the epic exploration of Baldur\u2019s Gate, adds in the fun, intense combat and dungeon diving of Icewind Dale, and ties it all together with the emotional writing and mature thematic exploration of Planescape: Torment. Choose to play as one of the six playable races: Human, Aumaua, Dwarf, Elf, Godlike, and Orlan. Whether you're playing a stout Dwarf, a towering Aumaua, or one of the otherworldly Godlike, Eternity's plethora of playable races scratch every role-playing itch you may have and allow for deep character customization. [Obsidian]",
+        "scores": {
+            "metascore": "89",
+            "userscore": "8.3"
+        }
+    },
+    "18": {
+        "title": "3D Gunstar Heroes",
+        "date": "August 20, 2015",
+        "summary": "The Gunstar 9 planet was peaceful for many years until the vicious dictator Colonel Red kidnapped the Gunstar twins' older brother and used mind control to make him his slave. Now, face many different enemies and bosses in Gunstar Heroes, as you battle to stop the dictator from unleashing \"Golden Silver the Destructor\" with apocalyptic consequences!",
+        "scores": {
+            "metascore": "89",
+            "userscore": "7.9"
+        }
+    },
+    "19": {
+        "title": "Dark Souls II: Scholar of the First Sin",
+        "date": "April 7, 2015",
+        "summary": "Dark Souls II: Scholar of the First Sin includes the 3 previously released DLC packs  - Crown of the Sunken King, Crown of the Old Iron King, and Crown of the ivory King - along with additional features. All versions of the game include the following features (Existing Dark Souls II owners will receive a patch to implement these elements): Additional NPCs added for an enhanced story experience. Parameter adjustments for improved game balance. Augmented item descriptions. Improved online matchmaking functionality. [Bandai Namco]",
+        "scores": {
+            "metascore": "89",
+            "userscore": "7.8"
+        }
+    },
+    "20": {
+        "title": "3D Streets of Rage II",
+        "date": "July 23, 2015",
+        "summary": "Original rumblers Axel and Blaze slam the asphalt with bigger, better, totally devastating attacks! Skull-crushing ex-wrestler Max Thunder joins up with earth-shattering body slams and spinning fist attacks. New thrasher Skate slices punks with high speed in-line skate attacks and spinning jump kicks. Go maniac with jaw-shattering, bone-busting punches, head-cracking jump kicks and secret weapons. Gangs of dirt bikers dive into you from every side. Smash 'em with a pipe as they speed by. 16 gigantic megs of compound fractures! All new moves, and more of 'em! Bust knuckles with a friend in an all-new 2-player head-to-head mode!",
+        "scores": {
+            "metascore": "89",
+            "userscore": "7.4"
+        }
+    },
+    "21": {
+        "title": "Bastion",
+        "date": "April 7, 2015",
+        "summary": "The goal of the game is to construct a safe haven in the wake of the Calamity, a cataclysmic event that shattered the world into a series of floating islands. As players journey into the wild unknown in search of survivors and supplies, they will confront strange beasts, forge an array of customizable weapons, and gain new powers from specially-brewed spirits. The entire play experience of Bastion is dynamically narrated, gradually revealing a rich backstory as the narrator reacts to the player's actions in real time.",
+        "scores": {
+            "metascore": "89",
+            "userscore": "7.7"
+        }
+    },
+    "22": {
+        "title": "Nuclear Throne",
+        "date": "December 5, 2015",
+        "summary": "Nuclear Throne is Vlambeers latest action roguelike-like about mutants fighting their way through a post-apocalyptic world. The radioactive waste in the world allows mutants to get ahead by mutating new limbs on the fly, the abundant availability of powerful weaponry make the quest to become ruler of the Wasteland one frought with peril.",
+        "scores": {
+            "metascore": "89",
+            "userscore": "7.7"
+        }
+    },
+    "23": {
+        "title": "Destiny: The Taken King",
+        "date": "September 15, 2015",
+        "summary": "To battle the Darkness and the Taken army, players get brand new subclasses with new supers. Warlocks now harness the power of an electric storm, Hunters carve a bow formed from gravitational void energy, and Titans summon a flaming hammer that can sear their adversaries from a range or deliver a devastating melee impact.",
+        "scores": {
+            "metascore": "89",
+            "userscore": "5.2"
+        }
+    },
+    "24": {
+        "title": "Fallout 4",
+        "date": "November 10, 2015",
+        "summary": "As the sole survivor of Vault 111, you enter a world destroyed by nuclear war. Every second is a fight for survival, and every choice is yours. Only you can rebuild and determine the fate of the Wasteland. Welcome home.",
+        "scores": {
+            "metascore": "88",
+            "userscore": "6.5"
+        }
+    },
+    "25": {
+        "title": "Super Mario Maker",
+        "date": "September 11, 2015",
+        "summary": "Play a countless number of intensely creative Super Mario levels from players around the globe. It\u2019s easy enough to create your own levels with the Wii U GamePad controller that it may feel like you\u2019re simply sketching out your ideas on paper, but you can now bring enemies and objects into a playable course in ways you could only consider before. Violate the conventions of traditional Super Mario gameplay by blending enemies, traps and items into unexpected twists, like Piranha Plant-shooting cannons, power-up-tossing Lakitus, or even Hammer Bros. riding on Bowser while bouncing on trampolines.",
+        "scores": {
+            "metascore": "88",
+            "userscore": "8.7"
+        }
+    },
+    "26": {
+        "title": "Divinity: Original Sin Enhanced Edition",
+        "date": "October 27, 2015",
+        "summary": "Divinity Original Sin: Enhanced Edition is a much lauded Role-Playing-Game that blends deep customization and humor with dynamic turn based combat. Either in online co-op, split-screen co-op on your TV, or even alone, take advantage of a classless RPG system to create your heroes and conquer the evils of Rivellon!\r\n\r\nEmbark upon a journey with up to three companions as you bend the very fabric of time, where what seems like the case of a simple murder unravels into hours of quests facing fiendish foes, magical polymorphs, and dastardly bosses. As a Source Hunter, master the elements and use the environment to your advantage in dynamic combats mixing weather and magic to explode, poison, electrify, freeze and burn your enemies!",
+        "scores": {
+            "metascore": "88",
+            "userscore": "7.7"
+        }
+    },
+    "27": {
+        "title": "Kerbal Space Program",
+        "date": "April 27, 2015",
+        "summary": "In Kerbal Space Program you have to build a space-worthy ship, capable of flying its crew out into space without killing any of them. At your disposal is a collection of parts, which must be assembled to create a functional craft. Each part has its own function and will affect the way a ship flies (or does not). So strap yourself in, and get ready to try some Rocket Science.",
+        "scores": {
+            "metascore": "88",
+            "userscore": "8.2"
+        }
+    },
+    "28": {
+        "title": "Divinity: Original Sin Enhanced Edition",
+        "date": "October 27, 2015",
+        "summary": "Divinity Original Sin: Enhanced Edition is a much lauded Role-Playing-Game that blends deep customization and humor with dynamic turn based combat. Either in online co-op, split-screen co-op on your TV, or even alone, take advantage of a classless RPG system to create your heroes and conquer the evils of Rivellon!\r\n\r\nEmbark upon a journey with up to three companions as you bend the very fabric of time, where what seems like the case of a simple murder unravels into hours of quests facing fiendish foes, magical polymorphs, and dastardly bosses. As a Source Hunter, master the elements and use the environment to your advantage in dynamic combats mixing weather and magic to explode, poison, electrify, freeze and burn your enemies!",
+        "scores": {
+            "metascore": "88",
+            "userscore": "7.9"
+        }
+    },
+    "29": {
+        "title": "Ori and the Blind Forest",
+        "date": "March 11, 2015",
+        "summary": "Ori and the Blind Forest is a bit of a genremix \u2013 It\u2019s a \u2018Metroidvania\u2018, but with a stronger platforming focus and light RPG elements, all set within an atmospheric world.",
+        "scores": {
+            "metascore": "88",
+            "userscore": "8.6"
+        }
+    },
+    "30": {
+        "title": "Starcraft II: Legacy of the Void",
+        "date": "November 10, 2015",
+        "summary": "StarCraft II continues the epic saga of the Protoss, Terran, and Zerg. These three distinct and powerful races clash once again in the fast-paced real-time strategy sequel to the legendary original, StarCraft. Legions of veteran, upgraded, and brand-new unit types do battle across the galaxy, as each faction struggles for survival. Featuring a unique single-player campaign that picks up where StarCraft: Brood War left off, StarCraft II presents a cast of new heroes and familiar faces in an edgy sci-fi story filled with adventure and intrigue. In addition, Blizzard again offers unparalleled online play through Battle.net, the company's world-renowned gaming service, with several enhancements and new features to make StarCraft II the ultimate competitive real-time strategy game. Features fast-paced, hard-hitting, tightly balanced competitive real-time strategy gameplay that recaptures and improves on the magic of the original game. New units and gameplay mechanics further distinguish each race. Vibrant new 3D-graphics engine with support for dazzling visual effects and massive unit and army sizes. Full map-making and scripting tools to give players incredible freedom in customizing and personalizing their gameplay experience. [Blizzard]",
+        "scores": {
+            "metascore": "88",
+            "userscore": "8.3"
+        }
+    },
+    "31": {
+        "title": "The Talos Principle: Deluxe Edition",
+        "date": "October 13, 2015",
+        "summary": "In The Talos Principle, players assume the role of a sentient artificial intelligence placed within a simulation of humanity?s greatest ruins and linked together through an arcane cathedral. Players are tasked with solving a series of increasingly complex puzzles woven into a metaphysical parable about intelligence and meaning in an inevitably doomed world.",
+        "scores": {
+            "metascore": "88",
+            "userscore": "8.1"
+        }
+    },
+    "32": {
+        "title": "Ori and the Blind Forest",
+        "date": "March 11, 2015",
+        "summary": "Ori and the Blind Forest is a bit of a genremix \u2013 It\u2019s a \u2018Metroidvania\u2018, but with a stronger platforming focus and light RPG elements, all set within an atmospheric world.",
+        "scores": {
+            "metascore": "88",
+            "userscore": "8.7"
+        }
+    },
+    "33": {
+        "title": "Bloodborne: The Old Hunters",
+        "date": "November 24, 2015",
+        "summary": "Set in a nightmare world where hunters from the past are trapped forever, explore brand new stages full of dangers, rewards, and deadly beasts to overcome. You\u2019ll find multiple new outfits and weapons to add to your arsenal as well as additional magic to wield and add more variety to your combat strategy. [SCEJ]",
+        "scores": {
+            "metascore": "87",
+            "userscore": "9.0"
+        }
+    },
+    "34": {
+        "title": "Oddworld: Abe's Oddysee - New 'n' Tasty",
+        "date": "February 25, 2015",
+        "summary": "Rescue your fellow meat factory slaves in this nostalgic, classic platformer with the latest immersive graphics and design.\r\n\r\nFind your destiny\r\n\r\nOnce a happy floor waxer in Oddworld's biggest meat processing plant, Abe stumbled across his boss's secret plan to turn the factory's slave labour force into the latest in the RuptureFarms Tasty Treats line of novelty meat snacks.\r\n\r\nAbe now has to save his own skin from the grinders even if simply escaping the flesh farm is only the start of his Oddysee. Trigger-happy hunting parties, carnivorous sacred beasts, ancient temple traps and even a return to his former workplace await Abe on his journey to discover his people's heritage.",
+        "scores": {
+            "metascore": "87",
+            "userscore": "7.7"
+        }
+    },
+    "35": {
+        "title": "Crypt of the NecroDancer",
+        "date": "April 23, 2015",
+        "summary": "A hardcore rhythm-based roguelike game. Can you survive this deadly dungeon of dance, slay the NecroDancer, and recapture your still beating heart? Or will you be a slave to the rhythm for all eternity? Players must move on the beat to navigate procedurally generated dungeons while battling dancing skeletons, zombies, dragons, and more! Groove with the game's epic dance soundtrack, or select songs from your own MP3 collection! You can even play with a dance pad to really shake your bones!",
+        "scores": {
+            "metascore": "87",
+            "userscore": "7.7"
+        }
+    },
+    "36": {
+        "title": "Batman: Arkham Knight",
+        "date": "June 23, 2015",
+        "summary": "Batman confronts the ultimate threat against the city he has been sworn to protect. The Scarecrow returns to congeal an imposing array of super villains, including The Penguin, Two-Face and Harley Quinn, to summarily destroy The Dark Knight. The game introduces Rocksteady's uniquely-designed imagining of the Batmobile drivable for the first time in the franchise. Batman: Arkham Knight offers gamers a complete Batman experience as they rip through the streets and soar across the skyline of the iconic Gotham City.",
+        "scores": {
+            "metascore": "87",
+            "userscore": "7.8"
+        }
+    },
+    "37": {
+        "title": "Forza Motorsport 6",
+        "date": "September 15, 2015",
+        "summary": "More than 450 cars all carefully recreated and customizable, and complete with working cockpits and full damage. Tour twenty-six world-famous locales including Daytona, Le Mans, and more. 2-player split-screen racing, 24-player races, and realistic Drivatar opponents deliver packed tracks and action.",
+        "scores": {
+            "metascore": "87",
+            "userscore": "7.7"
+        }
+    },
+    "38": {
+        "title": "Skylanders SuperChargers",
+        "date": "September 20, 2015",
+        "summary": "Skylanders SuperChargers features a brand-new class of heroes, called SuperChargers who are distinct with fresh moves, powerful attacks and all-new weapons.  These SuperChargers also have special in-game abilities that help Portal Masters fight Kaos.  Twenty new SuperChargers character toys and 20 new vehicle toys will be available.",
+        "scores": {
+            "metascore": "87",
+            "userscore": "5.6"
+        }
+    },
+    "39": {
+        "title": "3D Sonic the Hedgehog 2",
+        "date": "October 8, 2015",
+        "summary": "Super Speed! Sonic's back and better than ever. He's a blur in blue! A blaze of action! With his new Super Spin Dash. And a new, fabulous friend, \"Tails\" the Fox. You won't believe it 'til you see it. And when you play, you won't stop. Super Play! Defy gravity in hair-raising loop-de-loops. Grab Power Sneakers and race like lightning through the mazes. All at break-neck speed! Super Power! Sonic's attitude is can-do. The mad scientist Dr. Robotnik is planning a world takeover. Sonic gets tough in the fight to save his friends and squash Robotnik for good!",
+        "scores": {
+            "metascore": "87",
+            "userscore": "8.3"
+        }
+    },
+    "40": {
+        "title": "Pro Evolution Soccer 2016",
+        "date": "September 15, 2015",
+        "summary": "The upgraded feint moves allow for sudden directional changes that can cause defenders to lose their balance. But the developers have added a new system to the defenders arsenal. With Perfect Defence, players who time their tackles perfectly are able to powerfully shove their opponent out of the way and instantly secure the ball, allowing to create direct turnarounds and counter opportunities.",
+        "scores": {
+            "metascore": "87",
+            "userscore": "7.2"
+        }
+    },
+    "41": {
+        "title": "3D Out Run",
+        "date": "March 12, 2015",
+        "summary": "The re-mastered version includes all of Out Run\u2019s original content alongside two new songs, and runs at 60 frames per second which is twice the speed of the original game. 3D Out Run also features a built in Stage Select option that allows players to save and resume progress mid-game, has adjustable difficulty settings, and includes unlockable car customization options that allow you to equip parts to improve your car. Additionally, players are able to choose from a number of real-life arcade cabinets wherein everything from the appearance to the environmental sounds of the specific cabinet.",
+        "scores": {
+            "metascore": "87",
+            "userscore": "8.0"
+        }
+    },
+    "42": {
+        "title": "Dark Souls II: Scholar of the First Sin",
+        "date": "April 7, 2015",
+        "summary": "Dark Souls II: Scholar of the First Sin includes the 3 previously released DLC packs  - Crown of the Sunken King, Crown of the Old Iron King, and Crown of the ivory King - along with additional features. All versions of the game include the following features (Existing Dark Souls II owners will receive a patch to implement these elements): Additional NPCs added for an enhanced story experience. Parameter adjustments for improved game balance. Augmented item descriptions. Improved online matchmaking functionality. [Bandai Namco]",
+        "scores": {
+            "metascore": "87",
+            "userscore": "8.0"
+        }
+    },
+    "43": {
+        "title": "NBA 2K16",
+        "date": "September 25, 2015",
+        "summary": "Be the Story. The NBA 2K franchise is back with a true-to-life NBA experience in NBA 2K16. Guide your MyPLAYER through the complete NBA journey, take control of an entire NBA franchise, or refine your skills online competing against gamers from around the globe. With animations that provide smoother movement and more realistic articulation, it promises to be the most authentic NBA gaming experience yet. [2K]",
+        "scores": {
+            "metascore": "87",
+            "userscore": "6.7"
+        }
+    },
+    "44": {
+        "title": "Fallout 4",
+        "date": "November 10, 2015",
+        "summary": "As the sole survivor of Vault 111, you enter a world destroyed by nuclear war. Every second is a fight for survival, and every choice is yours. Only you can rebuild and determine the fate of the Wasteland. Welcome home.",
+        "scores": {
+            "metascore": "87",
+            "userscore": "6.7"
+        }
+    },
+    "45": {
+        "title": "Tales From The Borderlands: Episode 5 - The Vault of the Traveler",
+        "date": "October 20, 2015",
+        "summary": "In the final episode of the season, all hell is breaking loose. Jack is now in control of Helios' systems, and he is ready to reclaim his rightful place as king of Hyperion - with or without you. It's a mad dash to get out of the chaotic space station alive, as everyone scrambles to grab the final Gortys piece and high tail it back to Pandora. Can you guide our motley crew through perilous corporate dangers in hopes of getting some copious alien riches? Loyalties will be tested, secrets will be revealed, and explosions will be in large supply in this final chapter of Tales From The Borderlands.",
+        "scores": {
+            "metascore": "86",
+            "userscore": "8.7"
+        }
+    },
+    "46": {
+        "title": "Uncharted: The Nathan Drake Collection",
+        "date": "October 9, 2015",
+        "summary": "From the storytellers at Naughty Dog, comes the epic that altered adventure storytelling, rebuilt by Bluepoint Games with the power of the PS4 system. Follow the harrowing journey of Nathan Drake across the globe, from humble beginnings to incredible discoveries. Meet a unique cast of characters as Drake puts life and friendships on the line in a race against ruthless enemies to uncover unimaginable treasure. UNCHARTED: The Nathan Drake Collection includes the single-player campaigns for UNCHARTED: Drake\u2019s Fortune, UNCHARTED 2: Among Thieves, and UNCHARTED 3: Drake\u2019s Deception.",
+        "scores": {
+            "metascore": "86",
+            "userscore": "8.5"
+        }
+    },
+    "47": {
+        "title": "Tales from the Borderlands: A Telltale Game Series",
+        "date": "October 20, 2015",
+        "summary": "Like all good tales, there\u2019s more than one side to a story. Especially one about a Vault key, the Hyperion Corporation, bandits, loot, gangsters, Vault Hunters, secret Atlas tech, explosions, getaways, extortion, betrayal, and mayhem. Set after the events seen in Borderlands 2, Tales from the Borderlands is about Rhys, a Hyperion company man looking to become the next Handsome Jack, and it\u2019s also about Fiona, a Pandoran con artist out to score the biggest of all swindles. Lured into danger by a Vault key and all it promises, the unlikely duo are thrown together with a common goal and a huge amount of mistrust. Who is telling the truth, and why is it important That\u2019s up to you to decide. You are Rhys\u2026and you are also Fiona, because like every tale worth telling, there are two\u2026oh, you read that part already? Well, it\u2019s important to remember that there *are* two sides to every story, and you my friend, you will tell this tale, or\u2026tales, through the choices that you make. Your every decision as both Rhys and Fiona will affect the people and world around you: this is a game where YOU are the final author in a brand new Borderlands story set on the unforgiving world of Pandora. [TellTale Games]",
+        "scores": {
+            "metascore": "86",
+            "userscore": "8.2"
+        }
+    },
+    "48": {
+        "title": "Final Fantasy XIV: Heavensward",
+        "date": "June 23, 2015",
+        "summary": "The Warriors of Light travel now to Ishgard a city-state mired in a 1000-year conflict with the dragons of the Dravanian Horde. Can our heroes reveal the ancient truths buried in Ishgard\u2019s bloody history and help bring an end to the Dragonsong War? Can the Warriors of Light cast off the shadows that darken the realm?",
+        "scores": {
+            "metascore": "86",
+            "userscore": "8.4"
+        }
+    },
+    "49": {
+        "title": "Shovel Knight",
+        "date": "April 21, 2015",
+        "summary": "Shovel Knight is a sweeping classic action adventure game with awesome gameplay, memorable characters, and an 8-bit retro aesthetic. It's a hot mashup of new and old! You play as the eponymous Shovel Knight, a small knight with a huge quest. Shovel Knight has come to this land with two goals: to defeat the evil Enchantress and quest for his lost beloved. He wields a Shovel Blade: a multipurpose weapon whose techniques have now been lost to the ages. Always honest and helpful, Shovel Knight is a shining example of the code of Shovelry: Slash Mercilessly and Dig Tirelessly!\r\n\r\nBut, between Shovel Knight and his beloved stands a cadre of villainous knights. These terrible foes, known as The Order of No Quarter, have been dispatched to prevent Shovel Knight from reaching the Enchantress, and will pursue their mission at any cost. If you love games with perfect platforming, beautiful art, infectious music, crazy bosses, humor and levity, and real heart... Shovel Knight is for you!",
+        "scores": {
+            "metascore": "86",
+            "userscore": "7.6"
+        }
+    },
+    "50": {
+        "title": "DmC: Devil May Cry Definitive Edition",
+        "date": "March 10, 2015",
+        "summary": "The definitive edition of this action game arrives with enhanced 1080p graphics at 60fps, new features and all the original DLC included. Chain together stylish combos with up to 8 unique weapons. Traverse the demonic world of Limbo as you join Dante and Vergil in the legendary rebirth of the Devil May Cry franchise.",
+        "scores": {
+            "metascore": "86",
+            "userscore": "8.0"
+        }
+    },
+    "51": {
+        "title": "Monster Hunter 4 Ultimate",
+        "date": "February 13, 2015",
+        "summary": "Take off on an epic journey, traversing a vast world hunting larger than life beasts as you look for the source of a mysterious virus. Travel with a caravan of fellow hunters and merchants as you make your way across multiple locations, each with its own unique look and feel.",
+        "scores": {
+            "metascore": "86",
+            "userscore": "8.6"
+        }
+    },
+    "52": {
+        "title": "NBA 2K16",
+        "date": "September 25, 2015",
+        "summary": "Be the Story. The NBA 2K franchise is back with a true-to-life NBA experience in NBA 2K16. Guide your MyPLAYER through the complete NBA journey, take control of an entire NBA franchise, or refine your skills online competing against gamers from around the globe. With animations that provide smoother movement and more realistic articulation, it promises to be the most authentic NBA gaming experience yet. [2K]",
+        "scores": {
+            "metascore": "86",
+            "userscore": "6.1"
+        }
+    },
+    "53": {
+        "title": "Her Story",
+        "date": "June 24, 2015",
+        "summary": "Her Story is the new game from Sam Barlow, creator of Silent Hill: Shattered Memories and Aisle. A crime fiction game with non-linear storytelling, Her Story revolves around a police database full of live action video footage. It stars Viva Seifert, actress and one half of the band Joe Gideon and the Shark.",
+        "scores": {
+            "metascore": "86",
+            "userscore": "6.1"
+        }
+    },
+    "54": {
+        "title": "Homeworld Remastered Collection",
+        "date": "February 25, 2015",
+        "summary": "Assume control of your fleet and assemble an armada across more than thirty single-player missions. Choose unit types, fleet formations and flight tactics for each strategic situation.",
+        "scores": {
+            "metascore": "86",
+            "userscore": "8.2"
+        }
+    },
+    "55": {
+        "title": "Rise of the Tomb Raider",
+        "date": "November 10, 2015",
+        "summary": "Conquer a world strenuously protecting its secrets, endure dangers conditions and unstable landscapes, face viscous wildlife that act as guardians to ancient tombs, and explore massive interactive environments. Utilize the environment to your advantage, climb trees and go underwater to avoid or accost enemies, configure Lara's gear, weapons, and ammunition to suit your play style, dummy up explosives on the fly to wreak havoc, and wield Lara's signature combat bows and climbing axe. [Xbox.com]",
+        "scores": {
+            "metascore": "86",
+            "userscore": "8.0"
+        }
+    },
+    "56": {
+        "title": "SteamWorld Heist",
+        "date": "December 10, 2015",
+        "summary": "A game featuring space adventures and strategic shoot-outs. Assume the role of Captain Piper and recruit a team of rag-tag robots to explore and scavenge the remains of a destroyed world. Board enemy spaceships and command your crew in a unique variety of turn-based combat, where the outcome is determined purely by your own skills.",
+        "scores": {
+            "metascore": "86",
+            "userscore": "8.2"
+        }
+    },
+    "57": {
+        "title": "Final Fantasy XIV: Heavensward",
+        "date": "June 23, 2015",
+        "summary": "The to-this-point sealed gates to Ishgard open to the citizens of Eorzea as the Dragonsong War deteriorates. This bloody thousand-year skirmish between the dragoons of Ishgard and the sentient dragons of Dravania invites the support of new adventurers to bring to a halt to the conflict. Heavensward expands the playable area of the game into additional areas of Eorzea, beyond the Coerthas Central Highlands and in to the skies above the Sea of Clouds and the floating landmasses therein.",
+        "scores": {
+            "metascore": "86",
+            "userscore": "8.3"
+        }
+    },
+    "58": {
+        "title": "Destiny: The Taken King",
+        "date": "September 15, 2015",
+        "summary": "To battle the Darkness and the Taken army, players get brand new subclasses with new supers. Warlocks now harness the power of an electric storm, Hunters carve a bow formed from gravitational void energy, and Titans summon a flaming hammer that can sear their adversaries from a range or deliver a devastating melee impact.",
+        "scores": {
+            "metascore": "86",
+            "userscore": "6.2"
+        }
+    },
+    "59": {
+        "title": "Heroes of the Storm",
+        "date": "June 2, 2015",
+        "summary": "This free-to-play online team brawler assembles a diverse cast of characters from Blizzard\u2019s far-flung realms of science fiction and fantasy, including the Warcraft, StarCraft, and Diablo universes, and challenges them to compete in epic, adrenaline-charged battles. Heroes of the Storm solicits players to customize heroes to suit their style and then team up with friends for some all-out mayhem. The game features an array of gameplay modes for players of every skill level, including Cooperative, in which players team up against computer-controlled opponents, and Quick Match, an accessible way to jump in and play versus others. Experienced players can also join forces against other teams of players in highly competitive, draft-style ranked play. [Blizzard]",
+        "scores": {
+            "metascore": "86",
+            "userscore": "6.4"
+        }
+    },
+    "60": {
+        "title": "Code:Realize - Guardian of Rebirth",
+        "date": "October 20, 2015",
+        "summary": "Restricted to an abandoned mansion on the outskirts of London in fulfillment of a promise to her father, lonely Cardia lives day to day isolated from the world. Her body carries a deadly poison that rots or melts anything her skin touches, prompting the locals to call her a \u201cmonster.\u201d Her last conversation with her father two years ago, telling her to stay out of sight and never fall in love, is the furthest back she can remember. One day, her quiet solitude is interrupted as the Royal Guards break in to capture her. It is then that Cardia meets Ars\u00e8ne Lupin, a chivalrous thief, who helps her escape the soldiers\u2019 clutches. She soon finds herself on a journey with Lupin to locate her father, who holds the answers to her mysterious condition. The two are soon joined by four more interesting and handsome gentlemen\u2026",
+        "scores": {
+            "metascore": "86",
+            "userscore": "8.1"
+        }
+    },
+    "61": {
+        "title": "OlliOlli2: Welcome to Olliwood",
+        "date": "March 3, 2015",
+        "summary": "OlliOlli2: Welcome to Olliwood plucks the iconic skater from the street and dropping him squarely in the middle of the Big Screen\u2019s most bodacious cinematic locations.",
+        "scores": {
+            "metascore": "86",
+            "userscore": "6.5"
+        }
+    },
+    "62": {
+        "title": "Mortal Kombat X",
+        "date": "April 14, 2015",
+        "summary": "Mortal Kombat X combines cinematic presentation with all new gameplay to deliver the most brutal Kombat experience ever, offering a new fully-connected experience that launches players into a persistent online contest where every fight matters in a global battle for supremacy.  For the first time, Mortal Kombat X gives players the ability to choose from multiple variations of each character impacting both strategy and fighting style. Players step into an original story showcasing some of the game\u2019s most prolific characters including Scorpion and Sub-Zero, while introducing new challengers that represent the forces of good and evil and tie the tale together.",
+        "scores": {
+            "metascore": "86",
+            "userscore": "7.5"
+        }
+    },
+    "63": {
+        "title": "Gunman Clive HD Collection",
+        "date": "September 3, 2015",
+        "summary": "In the year of 18XX, the west is overrun by thugs and outlaws. A group of bandits have kidnapped Mayor Johnsons daughter and are spreading havoc across the land. Gunman Clive must rescue the girl and bring order to the west, then finish the fight in Gunman Clive 2. His battle against the bandits takes him all around the world and beyond.",
+        "scores": {
+            "metascore": "86",
+            "userscore": "8.2"
+        }
+    },
+    "64": {
+        "title": "Xenoblade Chronicles 3D",
+        "date": "April 10, 2015",
+        "summary": "Join the battle for Bionis to repel the invasion of a terrifying mechanical army and uncover the secrets of a mystical sword called the Monado in Xenoblade.",
+        "scores": {
+            "metascore": "86",
+            "userscore": "8.8"
+        }
+    },
+    "65": {
+        "title": "DiRT Rally",
+        "date": "December 7, 2015",
+        "summary": "DiRT Rally captures the essence of what makes rally unique \u2013 that sense of trying to remain in control of your emotions, as you hurtle along at breakneck speed, aiming to squeeze everything out of your car whilst knowing that one crash could irreparably harm your stage time.",
+        "scores": {
+            "metascore": "86",
+            "userscore": "8.5"
+        }
+    },
+    "66": {
+        "title": "Rocket League",
+        "date": "July 5, 2015",
+        "summary": "Soccer meets driving once again in this physics-based multiplayer-focused sequel to Supersonic Acrobatic Rocket-Powered Battle-Cars. Choose a variety of high-flying vehicles equipped with huge rocket boosters to score aerial goals and pull-off game-changing saves.",
+        "scores": {
+            "metascore": "86",
+            "userscore": "8.1"
+        }
+    },
+    "67": {
+        "title": "The Legend of Heroes: Trails of Cold Steel",
+        "date": "December 22, 2015",
+        "summary": "At the elite Thors Military Academy, Erebonias best and brightest learn everything from the art of war to the liberal arts. Rean Schwarzer, a new student, learns that hes been selected as a member of the newly-minted Class VII, made up of students from both noble and commoner backgrounds.\r\n\r\nClass VII has no shortage of issues to overcome, but Rean and his classmates will have to work past their differences and hone their skills, because theyll need more than just top marks to make the grade  theyll need to safeguard their country from those who would plunge it into war.\r\n\r\n- A World of Lore  Return to the Zemurian continent, setting of the Trails in the Sky titles, with a new adventure for old and new fans alike.\r\n\r\n- Tactical Thinking  Execute your strategies in exciting turn-based battles where timing and distance can make the difference between victory and defeat.\r\n\r\n- Combat Links  Link any two characters in battle, enabling unique synergies between them.",
+        "scores": {
+            "metascore": "86",
+            "userscore": "8.7"
+        }
+    },
+    "68": {
+        "title": "Cities: Skylines",
+        "date": "March 10, 2015",
+        "summary": "Developed by Colossal Order, Cities: Skylines offers sprawling landscapes and maps with endless sandbox gameplay and new ways to expand your city. Key to progression is the ability to influence your city\u2019s policy by incorporating taxation into districts. All this plus the ability to mod the game to suit your play style.",
+        "scores": {
+            "metascore": "85",
+            "userscore": "8.8"
+        }
+    },
+    "69": {
+        "title": "OlliOlli2: Welcome to Olliwood",
+        "date": "March 3, 2015",
+        "summary": "OlliOlli2: Welcome to Olliwood plucks the iconic skater from the street and dropping him squarely in the middle of the Big Screen\u2019s most bodacious cinematic locations.",
+        "scores": {
+            "metascore": "85",
+            "userscore": "7.0"
+        }
+    },
+    "70": {
+        "title": "Tales from the Borderlands: A Telltale Game Series",
+        "date": "October 20, 2015",
+        "summary": "Like all good tales, there\u2019s more than one side to a story. Especially one about a Vault key, the Hyperion Corporation, bandits, loot, gangsters, Vault Hunters, secret Atlas tech, explosions, getaways, extortion, betrayal, and mayhem. Set after the events seen in Borderlands 2, Tales from the Borderlands is about Rhys, a Hyperion company man looking to become the next Handsome Jack, and it\u2019s also about Fiona, a Pandoran con artist out to score the biggest of all swindles. Lured into danger by a Vault key and all it promises, the unlikely duo are thrown together with a common goal and a huge amount of mistrust. Who is telling the truth, and why is it important That\u2019s up to you to decide. You are Rhys\u2026and you are also Fiona, because like every tale worth telling, there are two\u2026oh, you read that part already? Well, it\u2019s important to remember that there *are* two sides to every story, and you my friend, you will tell this tale, or\u2026tales, through the choices that you make. Your every decision as both Rhys and Fiona will affect the people and world around you: this is a game where YOU are the final author in a brand new Borderlands story set on the unforgiving world of Pandora. [TellTale Games]",
+        "scores": {
+            "metascore": "85",
+            "userscore": "8.6"
+        }
+    },
+    "71": {
+        "title": "Batman: Arkham Knight",
+        "date": "June 23, 2015",
+        "summary": "Batman confronts the ultimate threat against the city he has been sworn to protect. The Scarecrow returns to congeal an imposing array of super villains, including The Penguin, Two-Face and Harley Quinn, to summarily destroy The Dark Knight. The game introduces Rocksteady's uniquely-designed imagining of the Batmobile drivable for the first time in the franchise. Batman: Arkham Knight offers gamers a complete Batman experience as they rip through the streets and soar across the skyline of the iconic Gotham City.",
+        "scores": {
+            "metascore": "85",
+            "userscore": "6.9"
+        }
+    },
+    "72": {
+        "title": "Life is Strange",
+        "date": "October 20, 2015",
+        "summary": "Life is Strange is a hand drawn work of art and every action enacts a butterfly effect - but with the power to rewind time, what would you change? And would it turn out to be a change for the better or worse?",
+        "scores": {
+            "metascore": "85",
+            "userscore": "8.6"
+        }
+    },
+    "73": {
+        "title": "Rocket League",
+        "date": "July 7, 2015",
+        "summary": "Features improved physics, faster gameplay, and better visuals. An all-new Season Mode with unlockable items, multiple arenas, and more\r\nThe return of 2-, 3- and 4-player split-screen.",
+        "scores": {
+            "metascore": "85",
+            "userscore": "8.5"
+        }
+    },
+    "74": {
+        "title": "The Binding of Isaac: Afterbirth",
+        "date": "October 30, 2015",
+        "summary": "When Isaac\u2019s mother starts hearing the voice of God demanding a sacrifice be made to prove her faith, Isaac escapes into the basement facing droves of deranged enemies, lost brothers and sisters, his fears, and eventually his mother.",
+        "scores": {
+            "metascore": "85",
+            "userscore": "8.2"
+        }
+    },
+    "75": {
+        "title": "Chaos Reborn",
+        "date": "October 26, 2015",
+        "summary": "At the heart of Chaos Reborn is an intuitive and fluid turn-based wizard combat system. You play the role of a fighting wizard armed with a selection of spells and magical staff. Some spells summon creatures but others are more exotic, such as the Gooey Blob which spreads uncontrollably across the terrain. The balance between Law and Chaos can be altered to your advantage, or you can cast illusions to deceive your adversaries. It\u2019s a game of bluff, tactics and calculated risks with nail-biting decisions from one turn to the next.",
+        "scores": {
+            "metascore": "85",
+            "userscore": "7.9"
+        }
+    },
+    "76": {
+        "title": "Resogun: Defenders",
+        "date": "February 17, 2015",
+        "summary": "The expansion features two new game modes \u2014 Protector and Commando \u2014 new ships, and all new planets.",
+        "scores": {
+            "metascore": "85",
+            "userscore": "7.1"
+        }
+    },
+    "77": {
+        "title": "Zenzizenzic",
+        "date": "July 23, 2015",
+        "summary": "Zenzizenzic is a fast-paced twin stick bullet hell shoot 'em up and open world roguelike. Featuring an abstract art style and a thumping, soundtrack, it promises to get your thumbs sweating and your blood pumping.",
+        "scores": {
+            "metascore": "85",
+            "userscore": "6.1"
+        }
+    },
+    "78": {
+        "title": "Mega Man Legacy Collection",
+        "date": "August 24, 2015",
+        "summary": "Featuring reproductions of the series origins with the original six Mega Man games, the Legacy Collection should remind long-time fans and introduce newcomers to what made Mega Man such a popular and iconic character. Mega Man Legacy Collection will feature all six games and more. In addition to the six Mega Man games, Mega Man Legacy Collection features new ways to experience the classic games with the Museum Mode and new Challenge Mode. Challenge Mode remixes gameplay segments from all six games, with plenty of scaling difficulty objectives for experienced players to conquer yet serving as a good starting point for new players, too. Museum Mode contains a comprehensive collection of history, high-res art and original concept pieces.",
+        "scores": {
+            "metascore": "85",
+            "userscore": "8.6"
+        }
+    },
+    "79": {
+        "title": "Pro Evolution Soccer 2016",
+        "date": "September 15, 2015",
+        "summary": "The upgraded feint moves allow for sudden directional changes that can cause defenders to lose their balance. But the developers have added a new system to the defenders arsenal. With Perfect Defence, players who time their tackles perfectly are able to powerfully shove their opponent out of the way and instantly secure the ball, allowing to create direct turnarounds and counter opportunities.",
+        "scores": {
+            "metascore": "85",
+            "userscore": "6.0"
+        }
+    },
+    "80": {
+        "title": "System Shock: Enhanced Edition",
+        "date": "September 22, 2015",
+        "summary": "The Enhanced Edition adds a modern touch to this classic gem, without taking anything from its unmistakable atmosphere.",
+        "scores": {
+            "metascore": "85",
+            "userscore": "8.4"
+        }
+    },
+    "81": {
+        "title": "Super Meat Boy",
+        "date": "October 6, 2015",
+        "summary": "Super Meat Boy is a tough as nails platformer where you play as an animated cube of meat who's trying to save his girlfriend (who happens to be made of bandages) from an evil fetus in a jar wearing a tux.",
+        "scores": {
+            "metascore": "85",
+            "userscore": "6.9"
+        }
+    },
+    "82": {
+        "title": "Rare Replay",
+        "date": "August 4, 2015",
+        "summary": "Rare assembles the adventures of its iconic characters in a collection of thirty games that span the decades. From its earliest 2D classics to Xbox 360 hits, Rare Replay delivers a gaming array for veteran players and newcomers alike. Includes Perfect Dark, Killer Instinct Gold, Viva Pinata, Kameo, Banjo Kazooie, Conker's Bad Fur Day, Perfect Dark Zero, and a bunch more.",
+        "scores": {
+            "metascore": "84",
+            "userscore": "8.0"
+        }
+    },
+    "83": {
+        "title": "Freedom Planet",
+        "date": "August 20, 2015",
+        "summary": "Fight your way across the celestial world of Avalice where cats are green, motorcycles drive up walls and monster girls do most of the buttkicking. Freedom Planet is a cartoony, combat-based platform adventure that pits a spunky dragonoid and her friends against an alien attack force.",
+        "scores": {
+            "metascore": "84",
+            "userscore": "8.4"
+        }
+    },
+    "84": {
+        "title": "Shin Megami Tensei: Devil Survivor 2 Record Breaker",
+        "date": "May 5, 2015",
+        "summary": "Your days are numbered. Your character in Shin Megami Tensei: Devil Survivor 2 Record Breaker is stuck in a world that has been invaded and is on the brink of non-existence. At the same time, you and your friends have gained the ability to summon demons via your cell phone, and with it, a power to fight against fate. The countdown begins; will you be able to save the future of mankind?",
+        "scores": {
+            "metascore": "84",
+            "userscore": "4.1"
+        }
+    },
+    "85": {
+        "title": "Halo 5: Guardians",
+        "date": "October 27, 2015",
+        "summary": "Peace has been devastated as colony worlds are unexpectedly attacked. What's more, when humanity's greatest hero goes missing, a new Spartan is assigned the task of hunting the Master Chief and solving a mystery that threatens the whole of the galaxy.",
+        "scores": {
+            "metascore": "84",
+            "userscore": "6.4"
+        }
+    },
+    "86": {
+        "title": "80 Days (2015)",
+        "date": "September 29, 2015",
+        "summary": "1872, with a steampunk twist. Phileas Fogg has wagered he can circumnavigate the world in just eighty days. Choose your own route around a 3D globe, travelling by airship, submarine, mechanical camel, steam-train and more, racing other players and a clock that never stops.",
+        "scores": {
+            "metascore": "84",
+            "userscore": "7.3"
+        }
+    },
+    "87": {
+        "title": "Hearthstone: Heroes of Warcraft - The Grand Tournament",
+        "date": "August 24, 2015",
+        "summary": "132 new cards add a cavalry of noble knights, powerful steeds, potent spells, and more to your collection. A new keyword, Inspire, rallies minions to perform great acts of courage as they fight in your honor for a hard-earned victory.",
+        "scores": {
+            "metascore": "84",
+            "userscore": "4.1"
+        }
+    },
+    "88": {
+        "title": "Grim Fandango Remastered",
+        "date": "January 27, 2015",
+        "summary": "Something's Rotten in the Land of the Dead... ...and you're being played for a sucker. He sells luxury packages to souls on their four-year journey to eternal rest. But there's trouble in paradise. Help Manny untangle himself from a conspiracy that threatens his salvation.",
+        "scores": {
+            "metascore": "84",
+            "userscore": "7.3"
+        }
+    },
+    "89": {
+        "title": "Axiom Verge",
+        "date": "March 31, 2015",
+        "summary": "A failed scientist dies in an accident, only to awaken in a mysterious, alien world.  Where is he? How did he get here? And why do the fundamental laws of reality appear broken? Life. Afterlife. Real. Virtual. Dream. Nightmare. It's a thin line. It's Axiom Verge. [Thomas Happ]",
+        "scores": {
+            "metascore": "84",
+            "userscore": "7.8"
+        }
+    },
+    "90": {
+        "title": "Xenoblade Chronicles X",
+        "date": "December 4, 2015",
+        "summary": "Fight for survival while exploring the vast expanses of an unknown planet where anything you see is reachable in your weaponized mech, called a Skell. Customize a lethal skill set of combat and defensive skills, called Arts, to strengthen your strategies and defeat enemies efficiently. Attack your enemies from multiple directions using melee weapons, guns, and your greatest asset\u2014your tactical mind.",
+        "scores": {
+            "metascore": "84",
+            "userscore": "9.1"
+        }
+    },
+    "91": {
+        "title": "SOMA",
+        "date": "September 21, 2015",
+        "summary": "Strange occurrences are disrupting the routines of the PATHOS-2 research facility. The radio is silent. Behavioral anomalies of the machines are increasingly dangerous, if not... malevolent. The facility is devolving into chaos. No weapons, and the only escape is practically unthinkable. From Frictional Games, creators of the Amnesia and Penumbra series, SOMA is an aberrant tale of scientific inquiry and survival; an entropic exploration of synapse and circuit that wades through the delusions of human consciousness.",
+        "scores": {
+            "metascore": "84",
+            "userscore": "8.4"
+        }
+    },
+    "92": {
+        "title": "Grim Fandango Remastered",
+        "date": "January 26, 2015",
+        "summary": "Something is rotten in the land of the Dead, and you are being played for a sucker. Please meet Manny Calavera, travel agent at the Department of Death. He sells luxury packages to souls on their 4-year trip to eternal rest. But there is trouble in paradise. Help Manny untangle himself from a conspiracy that threatens his very salvation. [Double Fine]",
+        "scores": {
+            "metascore": "84",
+            "userscore": "8.0"
+        }
+    },
+    "93": {
+        "title": "Fallout 4",
+        "date": "November 9, 2015",
+        "summary": "As the sole survivor of Vault 111, you enter a world destroyed by nuclear war. Every second is a fight for survival, and every choice is yours. Only you can rebuild and determine the fate of the Wasteland. Welcome home.",
+        "scores": {
+            "metascore": "84",
+            "userscore": "5.5"
+        }
+    },
+    "94": {
+        "title": "Madden NFL 16",
+        "date": "August 25, 2015",
+        "summary": "Whether playing alone or online, your mission to build an NFL dynasty begins with Connected Franchise. Interact and build your team with more control with Game Prep. Want to develop your backup QB? Between matchups, spend extra time on him each week to earn training points without having to force him into the real games before he is ready. Build your teams' confidence through performance and front office transactions. Balance keeping player's confidence up, to increase abilities and build player XP.",
+        "scores": {
+            "metascore": "84",
+            "userscore": "6.0"
+        }
+    },
+    "95": {
+        "title": "FIFA 16",
+        "date": "September 22, 2015",
+        "summary": "Defend together, win together. Rely on your teammates to cover gaps when you close down an attacker. New defensive AI gives players better awareness of dangerous space on the pitch relative to the ball and their opponent. Your teammates will track back to stop sophisticated attacking runs, and close down angles of attack.",
+        "scores": {
+            "metascore": "84",
+            "userscore": "4.4"
+        }
+    },
+    "96": {
+        "title": "Final Fantasy X / X-2 HD Remaster",
+        "date": "May 12, 2015",
+        "summary": "Two RPGs - Now in High Definition. Over 200 hours of gameplay, including the International version content never before released in North America. Relive the fateful journey with fully remastered HD visuals and rearranged music.",
+        "scores": {
+            "metascore": "84",
+            "userscore": "8.3"
+        }
+    },
+    "97": {
+        "title": "DmC: Devil May Cry Definitive Edition",
+        "date": "March 10, 2015",
+        "summary": "The definitive edition of this action game arrives with enhanced 1080p graphics at 60fps, new features and all the original DLC included. Chain together stylish combos with up to 8 unique weapons. Traverse the demonic world of Limbo as you join Dante and Vergil in the legendary rebirth of the Devil May Cry franchise.",
+        "scores": {
+            "metascore": "83",
+            "userscore": "7.5"
+        }
+    },
+    "98": {
+        "title": "Life is Strange",
+        "date": "October 20, 2015",
+        "summary": "Life is Strange is a hand drawn work of art and every action enacts a butterfly effect - but with the power to rewind time, what would you change? And would it turn out to be a change for the better or worse?",
+        "scores": {
+            "metascore": "83",
+            "userscore": "8.6"
+        }
+    },
+    "99": {
+        "title": "Steins;Gate",
+        "date": "June 5, 2015",
+        "summary": "Okabe Rintaro -- aka Okarin -- is an eccentric college student who dreams of conspiracy and chaos. Adopting the persona of a mad scientist, he spends his time developing oddball gadgets with his friends in their makeshift laboratory.\r\n\r\nOne day, they accidentally discover that one of their inventions can send emails into the past. In other words, they have created a time machine.\r\n\r\nSERN, John Titor, the IBN 5100, the Butterfly Effect, and the 11 theories of time travel -- when chance brings these elements together in Akihabara, Japan, the fate of the world hangs in the balance.\r\n\r\nWhat will Okarin choose when he holds the future in his hands?",
+        "scores": {
+            "metascore": "83",
+            "userscore": "8.8"
+        }
+    },
+    "100": {
+        "title": "Resident Evil HD Remaster",
+        "date": "January 20, 2015",
+        "summary": "In 1998 a special forces team was sent to investigate some bizarre murders on the outskirts of Raccoon City. Upon arrival they were attacked by a pack of blood-thirsty dogs and were forced to take cover in a nearby mansion. But the scent of death hung heavy in the air. Supplies were scarce as they struggled to stay alive.",
+        "scores": {
+            "metascore": "83",
+            "userscore": "8.4"
+        }
+    }
+}

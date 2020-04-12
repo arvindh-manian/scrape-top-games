@@ -1,0 +1,902 @@
+{
+    "1": {
+        "title": "Half-Life 2",
+        "date": "November 16, 2004",
+        "summary": "[Metacritic's 2004 PC Game of the Year]  By taking the suspense, challenge and visceral charge of the original, and adding startling new realism and responsiveness, Half-Life 2 opens the door to a world where the player's presence affects everything around him, from the physical environment to the behaviors -- even the emotions -- of both friends and enemies. The player again picks up the crowbar of research scientist Gordon Freeman, who finds himself on an alien-infested Earth being picked to the bone, its resources depleted, its populace dwindling. Freeman is thrust into the unenviable role of rescuing the world from the wrong he unleashed back at Black Mesa. And a lot of people -- people he cares about -- are counting on him. [Vivendi Universal]",
+        "scores": {
+            "metascore": "96",
+            "userscore": "9.1"
+        }
+    },
+    "2": {
+        "title": "Grand Theft Auto: San Andreas",
+        "date": "October 26, 2004",
+        "summary": "[Metacritic's 2004 PS2 Game of the Year]  Five years ago Carl Johnson escaped from the pressures of life in Los Santos, San Andreas... a city tearing itself apart with gang trouble, drugs and corruption. Where filmstars and millionaires do their best to avoid the dealers and gangbangers. Now, it's the early 90s. Carl's got to go home. His mother has been murdered, his family has fallen apart and his childhood friends are all heading towards disaster. On his return to the neighborhood, a couple of corrupt cops frame him for homicide. CJ is forced on a journey that takes him across the entire state of San Andreas, to save his family and to take control of the streets. [Rockstar]",
+        "scores": {
+            "metascore": "95",
+            "userscore": "9.0"
+        }
+    },
+    "3": {
+        "title": "Halo 2",
+        "date": "November 9, 2004",
+        "summary": "The Covenant alien race threatens to destroy all humankind, and the only thing standing in its way is Master Chief, a genetically enhanced supersoldier. Master Chief returns in Halo 2, which features new vehicles, weapons, environments, and more. This time, you can interact with your environment, wield two weapons at the same time, board opponents' vehicles, and even switch sides to play the role of a Covenant Elite. Halo 2 also supports broadband multiplayer action via Xbox Live.",
+        "scores": {
+            "metascore": "95",
+            "userscore": "8.3"
+        }
+    },
+    "4": {
+        "title": "Burnout 3: Takedown",
+        "date": "September 7, 2004",
+        "summary": "Burnout 3 challenges you to crash into (and through) busy intersections, while creating as much damage as possible. You can battle your way to the front of the pack by taking down rivals and causing spectacular crashes. For those who thirst for crashes, the game includes a crash mode that rewards you for creating massive pileups. With multiplayer gameplay, more than 100 events, and 40 tracks, Burnout 3 provides intense speed and action.",
+        "scores": {
+            "metascore": "94",
+            "userscore": "7.6"
+        }
+    },
+    "5": {
+        "title": "Burnout 3: Takedown",
+        "date": "September 7, 2004",
+        "summary": "Burnout 3 takes the hit series even further, now featuring a unique \"crash and burn\" racing concept and a one-of-a-kind special effects engine that delivers spectacular visuals. The intensity heats up as players race, and often crash, their way through oncoming traffic in an attempt to claim the top spot. Boasting multiple single-player, multiplayer and online crash and race modes, Burnout 3 offers players the opportunity to race through busy city streets and be rewarded for taking risks that result in heart-pounding action and electrifying crashes. [Electronic Arts]",
+        "scores": {
+            "metascore": "93",
+            "userscore": "9.0"
+        }
+    },
+    "6": {
+        "title": "Tom Clancy's Splinter Cell Pandora Tomorrow",
+        "date": "March 23, 2004",
+        "summary": "Tom Clancy's Splinter Cell: Pandora Tomorrow, the sequel to the stealth-action game Splinter Cell, once again casts you in the role of Sam Fisher, who is sent in to destroy top-secret documentation held in the embassy of militia leader Suhadi Sadono.  Use all-new moves and prototype gear to infiltrate buildings and spare the hostages.  This time, you can take your games of espionage against three other players in online multiplayer mode, in which you choose to play as either a mercenary or spy.  You've got the moves and the gear, now put them to use.",
+        "scores": {
+            "metascore": "93",
+            "userscore": "8.5"
+        }
+    },
+    "7": {
+        "title": "Unreal Tournament 2004",
+        "date": "March 16, 2004",
+        "summary": "Reload, rev up and ride out. The new Tournament is faster, higher and meaner. Land and air based vehicles take combat to a new level; while an arsenal of new weaponry, daunting arenas and battlefields and the challenge of the Assault and Onslaught modes make the gladiator blood sport of the future a brand new experience. Buckle up; it?s gonna be one hell of a ride!  [Atari]",
+        "scores": {
+            "metascore": "93",
+            "userscore": "8.8"
+        }
+    },
+    "8": {
+        "title": "World of Warcraft",
+        "date": "November 23, 2004",
+        "summary": "Four years have passed since the aftermath of Warcraft III: Reign of Chaos, and a great tension now smolders throughout the ravaged world of Azeroth. As the battle-worn races begin to rebuild their shattered kingdoms, new threats, both ancient and ominous, arise to plague the world once again. World of Warcraft is an online role-playing experience set in the award-winning Warcraft universe. Players assume the roles of Warcraft heroes as they explore, adventure, and quest across a vast world. Being \"Massively Multiplayer,\" World of Warcraft allows thousands of players to interact within the same world. Whether adventuring together or fighting against each other in epic battles, players will form friendships, forge alliances, and compete with enemies for power and glory. A dedicated live team will create a constant stream of new adventures to undertake, lands to explore, and monsters to vanquish. This content ensures that the game will never be the same from month to month, and will continue to offer new challenges and adventures for years to come. [Blizzard Entertainment]",
+        "scores": {
+            "metascore": "93",
+            "userscore": "7.4"
+        }
+    },
+    "9": {
+        "title": "World Soccer Winning Eleven 7 International",
+        "date": "February 17, 2004",
+        "summary": "Winning Eleven 7 International features 100 teams, 21 stadiums, new player models and key additions to the Master League. Winning Eleven 7 also utilizes a custom designed engine that allows for great flexibility and customization. Upon entering a match, players will find incredibly masterful gameplay, beautifully rendered stadiums and picture-perfect player models. While on the field, players will experience true-to-life gameplay, with carefully tuned A.I., realistic pace and balance. [Konami]",
+        "scores": {
+            "metascore": "93",
+            "userscore": "8.3"
+        }
+    },
+    "10": {
+        "title": "World Soccer Winning Eleven 7 International",
+        "date": "April 9, 2004",
+        "summary": "Winning Eleven 7 International features 100 teams, 21 stadiums, new player models and key additions to the Master League. Winning Eleven 7 also utilizes a custom designed engine that allows for great flexibility and customization. Upon entering a match, players will find incredibly masterful gameplay, beautifully rendered stadiums and picture-perfect player models. While on the field, players will experience true-to-life gameplay, with carefully tuned A.I., realistic pace and balance. [Konami]",
+        "scores": {
+            "metascore": "92",
+            "userscore": "6.8"
+        }
+    },
+    "11": {
+        "title": "ESPN NFL 2K5",
+        "date": "July 20, 2004",
+        "summary": "ESPN NFL 2K5 kicks off the football season with an improved ESPN presentation, a variety of player moves, and more. Now you can perform all-new moves during an entire season, while earning points to customize your crib with different items. The game also features new modes, including ESPN 25th Anniversary mode, where you can play in classic NFL situations over the past 25 years. First-Person Football mode returns with new camera switching, improved audio, passing control options, and more.",
+        "scores": {
+            "metascore": "92",
+            "userscore": "7.9"
+        }
+    },
+    "12": {
+        "title": "Rome: Total War",
+        "date": "September 22, 2004",
+        "summary": "Rome: Total War is the next generation in epic strategy gaming from the critically acclaimed and award winning Total War brand. The aim of the game is to conquer, rule and manipulate the Roman Empire with the ultimate goal of being declared as the \"Imperator\" of Rome. Set in a time when the mighty Roman Empire emerged to conquer the known world against powerful enemies; when gladiators fought to a bloody death in the Coliseum; when Spartacus defied the might of the empire; when Hannibal led his invincible army and his war elephants across the Alps to strike fear into the very heart of Rome itself; and when Julius Caesar finally smashed the Barbarian Gauls. This was a time of brutal confrontation between civilisation and barbarism, and of civil war as the ancient world's only superpower turned on itself. A completely new Total War engine uses innovative technology and groundbreaking design to bring the world of ancient Rome to life to deliver the biggest and most cinematic battles ever seen in a videogame. So the battles in Rome: Total War maintain the epic scale that fans of Total War are used to, but now use high-detailed 3D polygonal troops and allows huge cities to be displayed on the battlefields. The result is truly spectacular. [Activision]",
+        "scores": {
+            "metascore": "92",
+            "userscore": "9.1"
+        }
+    },
+    "13": {
+        "title": "Metroid Prime 2: Echoes",
+        "date": "November 15, 2004",
+        "summary": "The sequel to Metroid Prime puts you in the role of bounty hunter Samus Aran once again. Your mission is to locate federation troopers who are missing on Aether--a planet torn into light and dark domains. To help you travel through the depths of light and dark, you'll have all-new beam weapons, a screw attack, and power-ups. Eliminate your enemies, solve puzzles, and open doors in an effort to restore peace to Aether. Metroid Prime 2: Echoes also features competitive multiplayer modes supporting up to four players.",
+        "scores": {
+            "metascore": "92",
+            "userscore": "8.9"
+        }
+    },
+    "14": {
+        "title": "Madden NFL 2005",
+        "date": "August 9, 2004",
+        "summary": "Madden NFL 2005 introduces the Hit Stick, a new feature that lets players turn a game around with a crucial tackle. Along with all-new defensive preplay controls and defensive artificial intelligence enhancements, the defense now has a diverse arsenal of weapons available. Also, the depth of Franchise mode grows with the addition of Storyline Central, a weekly radio talk show that discusses current stories regarding your team and the league. With even more Franchise mode additions, hundreds of new animations, and the new Create-a-Fan feature, Madden NFL 2005 takes the series to the next level.",
+        "scores": {
+            "metascore": "91",
+            "userscore": "7.4"
+        }
+    },
+    "15": {
+        "title": "Ratchet & Clank: Up Your Arsenal",
+        "date": "November 3, 2004",
+        "summary": "(Also known as \"Ratchet & Clank 3\")  The third installment of the Ratchet & Clank franchise incorporates new elements of gameplay not seen previously in the series, including online and offline multiplayer capabilities that will appeal to a wide variety of players. Ratchet and Clank: Up Your Arsenal returns gamers to Planet Veldin, the setting of the original Ratchet & Clank, where the duo set off on a gripping new adventure through a multitude of diverse planets to fight for galactic peace. Players will be able to earn up to 20 weapons (including online and offline) with up to four levels of upgrades for most weapons, plus new high-tech gadgets to help them through their journey. [SCEA]",
+        "scores": {
+            "metascore": "91",
+            "userscore": "9.1"
+        }
+    },
+    "16": {
+        "title": "Metal Gear Solid 3: Snake Eater",
+        "date": "November 17, 2004",
+        "summary": "In the struggle to achieve world peace and world dominance, rivaling governments are secretly developing weapons technology that could threaten the future existence of life. Destined to be the first, a race ensues to become the ultimate nation. A special elite tactical soldier is summoned to penetrate deep in the heart of enemy territory and obtain intel about \"Metal Gear,\" a prototype weapon with nuclear capabilities. This is your mission and you must infiltrate alone. Interactive environments where traps catch enemies and prey. Rely on camouflage, combat, hunting and instincts to survive. Set in the 1960s where politics and war are shaping real world history. Blockbuster musical score composed by Harry Gregson-Williams. [Konami]",
+        "scores": {
+            "metascore": "91",
+            "userscore": "9.1"
+        }
+    },
+    "17": {
+        "title": "Ninja Gaiden",
+        "date": "March 2, 2004",
+        "summary": "Ninja Gaiden first debuted in the 1988 and now the young ninja returns.  As Ryu Hayabusa, you seek revenge after the Vigor Empire massacres your clan.  Skilled in battle actions and ninja moves, you are well prepared to hunt down the Holy Emperor and reclaim the magic sword \"Ryuken.\" Ninja Gaiden features killer gameplay, stunning graphics, and new weapons such as the Dragon Sword, warhammer, shurikens, and nunchakus. Plus, there are massive levels filled with enemies and Xbox Live feature will enable future high score tournaments and downloadable content.",
+        "scores": {
+            "metascore": "91",
+            "userscore": "8.8"
+        }
+    },
+    "18": {
+        "title": "Tiger Woods PGA Tour 2005",
+        "date": "September 20, 2004",
+        "summary": "TigerProofing is a revolutionary course-altering system that allows players to modify course dynamics and create the most intensely competitive course imaginable. Alter tee-box length, width and patterns on fairways and greens, the depth of a greenside bunker, and even the color of the leaves on the trees, course moisture and the season which you play. Take on the legends of golf including Arnold Palmer, Jack Nicklaus, and Ben Hogan and become a legend yourself! EA SPORTS GameFace II: The industry-leading GameFace technology just got a whole lot deeper with more control and freedom to express your creative vision from a youthful prodigy to a grizzled old veteran. Eight new licensed courses and two new fantasy courses have been added for a total of 14 courses. New licensed courses for console only include Coeur d?Alene and Colonial Country Club. New licensed courses for both console and PC include, Sherwood Country Club, Fancourt Golf Club Estate and Troon North ? Monument Course. Compete as or against 15 different PGA TOUR players including Tiger Woods, John Daly, Vijay Singh, Charles Howell III, Notah Begay III, and Jesper Parnevik, among others. Total Precision Swing: New putting and chipping systems allow for more control on the green or when you leave an approach shot short. [EA Sports]",
+        "scores": {
+            "metascore": "91",
+            "userscore": "3.9"
+        }
+    },
+    "19": {
+        "title": "Madden NFL 2005",
+        "date": "August 9, 2004",
+        "summary": "Force the action on defense in Madden NFL 2005. New defensive tools allow you to make more plays and be in on all of the action. The all-new Hit Stick lets you lay the big hit to turn the momentum of the game in your favor. Modify pre-snap assignments, including double teams and player-specific match ups, for any defensive player on the field. With the new Storyline Central, you get the inside scoop around the league from radio host Tony Bruno, along with local and national newspapers, to help you make critical franchise decisions. New Hit Stick \u2014 Change the momentum of a game by using the right analog stick to make a huge hit, force a turnover, and send the crowd into a frenzy. Time it just right or you'll get burned for a big play. Enhanced Franchise Mode \u2014 Players now react to everything that happens in the franchise\u2014reward a hard-working player by naming him team captain or trade away unhappy players. The new game-by-game progression system rewards players for their performance during the season. Your team's crowd is now customizable with new Create-a-Fan. Be on the lookout for team-specific super fans via all-new 3D fan scenes. New EA SPORTS Online - Take on the best Madden players in quick tournaments, or compete in a mini-game of Rushing Attack. Improved EA SPORTS Fair Play keeps the playing field level. [Electronic Arts]",
+        "scores": {
+            "metascore": "91",
+            "userscore": "8.0"
+        }
+    },
+    "20": {
+        "title": "The Sims 2",
+        "date": "September 14, 2004",
+        "summary": "The Sims 2 is the first entirely-new generation of The Sims, the ground-breaking game that allowed players to create and control people. The Sims 2 challenges you to direct the journey of your Sims' lives as they grow from infancy through childhood, teenage life and adulthood. Starting with a personality that you give them (or that they inherit from their parents), your Sims will develop in unique ways based on your choices and influence. As they progress through life, your Sims will collect memories which shape who they are, what options they have and how they behave. These experiences can have a short or long-term effect on relationships between family members and friends. Experiences between Sims when they are children can affect their relationships as teens and adults. Your Sims can have casual friendships or make life-long enemies. [Electronic Arts]",
+        "scores": {
+            "metascore": "90",
+            "userscore": "8.8"
+        }
+    },
+    "21": {
+        "title": "ESPN NFL 2K5",
+        "date": "July 20, 2004",
+        "summary": "ESPN NFL 2K5 is uniting fans with a coupling of the most responsive and intense gameplay and the richest multi-player gaming experience possible. Maximum Tackling brings unique on-field control allowing gamers to go for the wrap-up tackle or deliver the big highlight hit. The addition of the V.I.P. System? allows gamers to play friends, even if they're not there! Players are invited to show off their coaching skills in Franchise mode and utilize Weekly Prep to fully plan the training schedule, intensity, and regimen each week. Full online leagues and tournament play with living rosters rounds out the most complete online experience. [Sega]",
+        "scores": {
+            "metascore": "90",
+            "userscore": "8.3"
+        }
+    },
+    "22": {
+        "title": "MVP Baseball 2004",
+        "date": "March 9, 2004",
+        "summary": "Step up to the plate with MVP Baseball 2004. The fundamentals of hitting, pitching, fielding, and base running have been reproduced like never before to give you complete control over every aspect of the game. From swinging for the fences or protecting the plate when you have a two-strike count, the all-new batting model provides unprecedented command of each type of swing in every situation. With great gameplay and many additional features such as Pitching Challenge and Dynasty Mode, MVP Baseball 2004 wins the pennant as the most innovative and realistic baseball experience ever created. Groundbreaking Hitting Control: From hitting to the opposite field to pulling the ball down the line to swinging for the fences, every swing type is included. You Control the Field: Leap over the wall and rob home runs, hook slide to avoid tags, and take out the catcher at home with all-new player control. Pick Your Park: With all-new crowd chants, the addition of classic stadiums, and new lighting to signify various start times for your biggest games, MVP Baseball 2004 puts you in the best seat in the house. Your Dynasty Begins Now: Take full control of your franchise on all the levels -- from the minors to the pros. Play, sim, or manage each game all the way to the World Series. Swing for the Fences Online: Go yard against players across the country in one-on-one or Tournament games, while talking up your game with EA SPORTS? Talk [Electronic Arts]",
+        "scores": {
+            "metascore": "90",
+            "userscore": "8.5"
+        }
+    },
+    "23": {
+        "title": "The Chronicles of Riddick: Escape From Butcher Bay - Developer's Cut",
+        "date": "December 8, 2004",
+        "summary": "Set before the events of both Universal Pictures' \"The Chronicles of Riddick,\" starring Vin Diesel, and the 2000 cult classic \"Pitch Black,\" which first introduced Diesel as enigmatic anti-hero Riddick, the game tells the story of Riddick's dramatic escape from the previously inescapable triple max security slam Butcher Bay, home to the most violent prisoners in the galaxy. The Chronicles Riddick: Escape From Butcher Bay will blend action and stealth elements, as players navigate Riddick through the harsh environments of the slam - dank tunnels, dimly lit corridors, and other hazardous areas filled with guards, savage inmates and deadly creatures that prowl the darkness. [Vivendi Universal]",
+        "scores": {
+            "metascore": "90",
+            "userscore": "8.6"
+        }
+    },
+    "24": {
+        "title": "MVP Baseball 2004",
+        "date": "March 9, 2004",
+        "summary": "Step up to the plate with MVP Baseball 2004.  The fundamentals of hitting, pitching, fielding, and base-running have been reproduced realistically to give you complete control over every aspect of the game.  From swinging for the fences or protecting the plate when you have a two-strike count, the all-new batting model provides unprecedented command of each type of swing in every situation.  With solid gameplay and many additional features such as Pitching Challenge and Dynasty Mode, MVP Baseball 2004 allows you to experience the game like never before.",
+        "scores": {
+            "metascore": "90",
+            "userscore": "7.7"
+        }
+    },
+    "25": {
+        "title": "Pikmin 2",
+        "date": "August 30, 2004",
+        "summary": "Captain Olimar has returned to the planet where the Pikmin live, and he's all business this time.  The company he works for is going bankrupt, so to save it, Olimar must salvage the treasure buried all over the planet.  Of course, he'll need the help of the Pikmin to do that--he can't do anything by himself.  Control one of two main characters--Olimar or his assistant--as you command your Pikmin to defeat enemies, propagate more Pikmin, collect precious doodads, and solve puzzles.  With unlimited time, new colors of Pikmin, and two-player cooperative play, Pikmin 2 improves on the original in many ways.",
+        "scores": {
+            "metascore": "90",
+            "userscore": "9.0"
+        }
+    },
+    "26": {
+        "title": "Viewtiful Joe",
+        "date": "August 24, 2004",
+        "summary": "Welcome to the world of Viewtiful Joe! Capcom's innovative super hero action game that mixes funky cartoon-style visuals with classic side-scrolling gameplay and introduces the world?s quirkiest million dollar action hero... Joe! More than just any ordinary dude, Joe must transform into the ultimate superhero. It?s up to you to activate the correct view mode like \"Slow\" or \"Zoom In\" in order to clobber your enemies with beautiful style! You can also speed up or slow down your visual effects for even more \"viewtiful\" moves. Viewtiful Joe redefines action games by mixing innovative \"viewpoint\" fighting into amazing cartoon meets noir environments. [Capcom]",
+        "scores": {
+            "metascore": "90",
+            "userscore": "8.3"
+        }
+    },
+    "27": {
+        "title": "Madden NFL 2005",
+        "date": "August 9, 2004",
+        "summary": "Madden NFL 2005 introduces the Hit Stick, a new feature that lets players turn a game around with a crucial tackle. Along with all-new defensive preplay controls and defensive artificial intelligence enhancements, the defense now has a diverse arsenal of weapons available. Also, the depth of Franchise mode grows with the addition of Storyline Central, a weekly radio talk show that discusses current stories regarding your team and the league. With even more Franchise mode additions, hundreds of new animations, and the new Create-a-Fan feature, Madden NFL 2005 takes the series to the next level.",
+        "scores": {
+            "metascore": "90",
+            "userscore": "tbd"
+        }
+    },
+    "28": {
+        "title": "Metroid: Zero Mission",
+        "date": "February 9, 2004",
+        "summary": "She's battled baddies on nearly every Nintendo system, and now, Samus Aran returns to her roots.  Metroid: Zero Mission relives the story that started it all--revealing for the first time full details of her meeting with the Metroids.  The plotline will be familiar to longtime fans of the Metroid series, but the challenges are new, the power-ups are plentiful, and the graphics and sound are supercharged.  Plus, if you thought that the original Metroid had a surprise ending, wait until you get past the Mother Brain in Metroid: Zero Mission.  A new twist provides a deeper adventure than ever before.",
+        "scores": {
+            "metascore": "89",
+            "userscore": "8.8"
+        }
+    },
+    "29": {
+        "title": "Worldwide Soccer Manager 2005",
+        "date": "December 7, 2004",
+        "summary": "(Also known as \"WorldWide Soccer Manager 2005\")  Sports Interactive have crafted a superbly detailed masterpiece in Football Manager 2005. Manager Mind games: With Football Manager, mind games can play a key part in every game. Put your fellow managers under the strain with a few white lies and then turn the screw with a damning criticism of your rivals\u2019 title chances. Just be wary of reaction and retaliation! Agents:  Slicked back hair, mobile phones and a bad cockney accent! Bring on the agents - attempting to whittle you out of a few more million on a possible signing. You just have to decide whether they\u2019re trying to flog you the next big thing or a complete donkey. The Back Room Boys:  If you don\u2019t want to don the tracksuit and sweat it out on the training field, then why not hire some help? From assistant managers to the best physios, they\u2019ll do the legwork and keep you informed on your players, helping you sort the men from the boys. The Big Match: Tired of watching player\u2019s use the same old moves that couldn\u2019t take the ball round a lamppost?  Football Manager 2005 has 30 extra fields for player data including \u2018preferred moves\u2019, allowing you to witness your stars perform their signature tricks. With feedback from the fans, Sports Interactive have further refined their award winning games engine to give you what you want from a management game. Football Today: Still have Smith playing for Leeds? That\u2019s SO last season! With more leagues, players and championships than any other football management sim, Football Manager 2005 will also have the latest squads and transfers right up to the end of the summer transfer window, guaranteeing you\u2019ll be on the ball. [Sports Interactive]",
+        "scores": {
+            "metascore": "89",
+            "userscore": "8.3"
+        }
+    },
+    "30": {
+        "title": "NCAA Football 2005",
+        "date": "July 15, 2004",
+        "summary": "Kick off the football season with NCAA Football 2005, a game that brings you closer to the players, stadiums, and atmosphere of college football. For the first time in the series, the game-day atmosphere directly affects players' on-field performance. Create mismatches with the new Match-Up Stick, and then celebrate big plays with new fan celebrations, like the Gator Chomp and the Texas Hook 'Em Horns. NCAA Football 2005 also features online tournaments, a deeper Dynasty mode, and a host of other gameplay enhancements.",
+        "scores": {
+            "metascore": "89",
+            "userscore": "7.8"
+        }
+    },
+    "31": {
+        "title": "MVP Baseball 2004",
+        "date": "March 9, 2004",
+        "summary": "Step up to the plate with MVP Baseball 2004.  The fundamentals of hitting, pitching, fielding, and base-running have been reproduced realistically to give you complete control over every aspect of the game.  From swinging for the fences or protecting the plate when you have a two-strike count, the all-new batting model provides unprecedented command of each type of swing in every situation.  With solid gameplay and many additional features such as Pitching Challenge and Dynasty Mode, MVP Baseball 2004 allows you to experience the game like never before.",
+        "scores": {
+            "metascore": "89",
+            "userscore": "7.2"
+        }
+    },
+    "32": {
+        "title": "Far Cry",
+        "date": "March 23, 2004",
+        "summary": "A tropical paradise seethes with hidden evil in Far Cry, a cunningly detailed action shooter that pushes the boundaries of combat to shocking new levels. Freelance mariner Jack Carver is cursing the day he ever came to this island. A week ago, a brash female reporter named Valerie had offered him an incredible sum of cash to take her to this unspoiled paradise. Shortly after docking, however, Jack's boat was greeted by artillery fire from a mysterious militia group swarming about the island. With his boat destroyed, his money gone, and the gorgeous Valerie suddenly missing, Jack now finds himself facing an army of mercenaries amidst the wilds of the island, with nothing but a gun and his wits to survive. But the further he pushes into the lush jungle canopy, the stranger things become. [Ubi Soft]",
+        "scores": {
+            "metascore": "89",
+            "userscore": "8.0"
+        }
+    },
+    "33": {
+        "title": "The Chronicles of Riddick: Escape From Butcher Bay",
+        "date": "June 1, 2004",
+        "summary": "The most wanted man in the universe comes to your neighborhood in The Chronicles of Riddick: Escape From Butcher Bay. Set before the events of two movies, The Chronicles of Riddick and Pitch Black, the game tells the story of Riddick's escape from the previously inescapable maximum security prison Butcher Bay, which is home to the most violent prisoners in the galaxy. Battle your enemies in first-person or third-person views using shooting, stealth, or hand-to-hand combat. With Riddick's eye-shine, you can easily see through the dark to take out your foes.",
+        "scores": {
+            "metascore": "89",
+            "userscore": "8.8"
+        }
+    },
+    "34": {
+        "title": "Tiger Woods PGA Tour 2005",
+        "date": "September 20, 2004",
+        "summary": "TigerProofing is a revolutionary course-altering system that allows players to modify course dynamics and create the most intensely competitive course imaginable. Alter tee-box length, width and patterns on fairways and greens, the depth of a greenside bunker, and even the color of the leaves on the trees, course moisture and the season which you play. Take on the legends of golf including Arnold Palmer, Jack Nicklaus, and Ben Hogan and become a legend yourself! EA SPORTS GameFace II: The industry-leading GameFace technology just got a whole lot deeper with more control and freedom to express your creative vision from a youthful prodigy to a grizzled old veteran. Eight new licensed courses and two new fantasy courses have been added for a total of 14 courses. New licensed courses for console only include Coeur d?Alene and Colonial Country Club. New licensed courses for both console and PC include, Sherwood Country Club, Fancourt Golf Club Estate and Troon North ? Monument Course. Compete as or against 15 different PGA TOUR players including Tiger Woods, John Daly, Vijay Singh, Charles Howell III, Notah Begay III, and Jesper Parnevik, among others. Total Precision Swing: New putting and chipping systems allow for more control on the green or when you leave an approach shot short. In PGA TOUR Season Mode, play along with the 52-week PGA TOUR calendar of events for up to 10 seasons. Obtain sponsorships from real golf equipment manufacturers throughout your career and drive to surpass Tiger as number one on the overall money list. [EA Sports]",
+        "scores": {
+            "metascore": "88",
+            "userscore": "8.2"
+        }
+    },
+    "35": {
+        "title": "Tiger Woods PGA Tour 2005",
+        "date": "September 20, 2004",
+        "summary": "Challenge professional golfer Tiger Woods to challenging matches in Tiger Woods PGA Tour 2005. This time, you can modify course dynamics and add longer trees, tighter fairways, undulations to greens, deeper bunkers, and more. The game's EA Sports Game Face features nonproportional bone scaling and texture blending to provide more realistic looks. After creating your own golfer and making a name for yourself, unlock the chance to tee off against some of golf's greatest legends, including Arnold Palmer, Jack Nicklaus, and Ben Hogan.",
+        "scores": {
+            "metascore": "88",
+            "userscore": "7.8"
+        }
+    },
+    "36": {
+        "title": "NCAA Football 2005",
+        "date": "July 15, 2004",
+        "summary": "Do you have what it takes to survive in college football's most hostile environments? For the first time in video game football history, the game-day atmosphere directly affects players' on-field performances. See if players have enough composure to withstand the pressure, and take advantage of key personnel mismatches with the new Match-Up Stick. Add in fan celebrations like the Gator Chomp or Texas Hook 'Em Horns and you'll see that NCAA Football 2005 delivers the real emotion, collegiate atmosphere, and traditional gameplay of college football. Electrifying Stadium Atmosphere: Watch the visiting team fight crowd noise when calling audibles and hot routes. Pump up the crowd and build up your home field advantage to take opponents out of the game. Build your team's stadium atmosphere to rank among the elite stadiums in the country. See, hear and feel the immediate impact from hostile environments like LSU?s \"Death Valley,\" \"The Swamp\" at Florida, Michigan?s \"Big House,\" and Nebraska's \"Sea of Red.\" Deeper Dynasty Mode: Monitor discipline levels and grades to ensure your program's integrity, while recruiting promising high school athletes and converting them into skilled position players. Keep players happy with playing time or risk them transferring to one of your rivals in the off-season. New Gameplay Enhancements: Choose from new custom playbooks, offensive schemes, and defensive formations that include the 4-2-5 and 3-3-5 Stack. [Electronic Arts]",
+        "scores": {
+            "metascore": "88",
+            "userscore": "8.8"
+        }
+    },
+    "37": {
+        "title": "Sly 2: Band of Thieves",
+        "date": "September 14, 2004",
+        "summary": "Incorporating a creative new approach to team play, Sly and his crew work together to plan and pull off a series of big heists. With an enhanced move set, including pick-pocketing, vent crawls, rooftop chases, and stealth attacks, and a team of unique playable characters, Sly 2: Band of Thieves delivers a true thieving experience as players explore the open environments and must think on their feet to survive. Sly 2: Band of Thieves breaks the rules of convention and truly immerses players into a world with no laws or boundaries. Sly and his crew are back! Say goodbye to the Brat Pack as you know it because there's a new Raccoon Pack in town that is raring to go. Word is out that Interpol has excavated the robotic remains of Clockwerk -- Sly's nemesis and sworn enemy of the Cooper clan. Sly and his gang discover the parts of Clockwerk are missing, and embark on a quest to ensure Clockwerk is never reassembled. The journey takes Sly and his crew to the far reaches of the globe, and along the way experience a plot full of deceit, surprising twists, and an exciting romantic triangle that will leave you wanting more. [SCEA]",
+        "scores": {
+            "metascore": "88",
+            "userscore": "8.9"
+        }
+    },
+    "38": {
+        "title": "NCAA Football 2005",
+        "date": "July 15, 2004",
+        "summary": "Kick off the football season with NCAA Football 2005, a game that brings you closer to the players, stadiums, and atmosphere of college football. For the first time in the series, the game-day atmosphere directly affects players' on-field performance. Create mismatches with the new Match-Up Stick, and then celebrate big plays with new fan celebrations, like the Gator Chomp and the Texas Hook 'Em Horns. NCAA Football 2005 also features online tournaments, a deeper Dynasty mode, and a host of other gameplay enhancements.",
+        "scores": {
+            "metascore": "88",
+            "userscore": "7.8"
+        }
+    },
+    "39": {
+        "title": "ESPN NHL 2K5",
+        "date": "August 30, 2004",
+        "summary": "ESPN NHL 2K5 continues the ESPN NHL series by introducing a bevy of new features. The gameplay, presentation, and graphics from last year's installment have been enhanced in the sequel. This time, you can use improved checks and defensive maneuvers to get even more physical with your hockey players. An enhanced ESPN presentation introduces cutscenes from the locker room and includes statistic-laden overlays, crowd chants, and more. You can also take on your friends in the all-new Party mode, and you can compete in online tournaments.",
+        "scores": {
+            "metascore": "88",
+            "userscore": "7.9"
+        }
+    },
+    "40": {
+        "title": "Counter-Strike: Source",
+        "date": "October 7, 2004",
+        "summary": "Valve has taken a large selection of the maps from Counter-Strike 1.6 - Office, Havana, Italy, Aztec, Chateau, Cobble, Piranesi and of course eternal favourites Dust and Dust 2, and recreated them for the source engine. This means all new textures and major aesthetic changes with more complex buildings and scenery. In addition, the levels are scattered with objects that react realistically with the Source engine's physics engine. [GamersEurope.com] The game is available through Valve's Steam downloading service and is distributed with \"Half-Life 2.\"",
+        "scores": {
+            "metascore": "88",
+            "userscore": "8.9"
+        }
+    },
+    "41": {
+        "title": "Rise of Nations: Thrones & Patriots",
+        "date": "April 27, 2004",
+        "summary": "Developed by Brian Reynolds and Big Huge Games, Throne and Patriots, the expansion pack to the critically acclaimed, best-selling real-time strategy (RTS) game Rise of Nations, adds a multitude of new features to Rise of Nations including; six new nations, a wide variety of new single player campaigns, more than 20 new units, new wonders and an innovative new Government feature. With the new Government feature, any nation, old or new, can choose exactly how to be governed, which has far-reaching effects on how units perform in various situations. All-new single player campaigns will allow gamers to control the course of history during historical events that changed the world. [Microsoft]",
+        "scores": {
+            "metascore": "88",
+            "userscore": "8.8"
+        }
+    },
+    "42": {
+        "title": "Sid Meier's Pirates!",
+        "date": "November 22, 2004",
+        "summary": "An entirely new game engine delivers updated gameplay, stunning new features, spectacular 3D graphics and enhanced surround sound, so players can fully experience the intrigue, adventure and danger of life as a pirate on the Spanish Main. In Pirates! you take the leading role of a Pirate Captain in the 17th century Caribbean amassing fortune and fame in an attempt to seize your rightful place as one of the most revered (and feared!) pirates in history.  Test your skills as a sea captain exploring the high seas and exotic ports in a richly detailed 3D world. Overtake the enemy and seize valuable booty. Exchange plank-shattering broadsides in fierce naval battles, and engage in duels with worthy opposing captains. As your reputation and skills grow, so will the size and quality of your crew, and your ability to take on larger enemy ships, raid and plunder heavily fortified ports, and locate ancient treasure. There?s a whole cast of interesting and dangerous characters to meet, mysteries to solve, exotic island destinations to discover, and powerful alliances to forge! [Firaxis]",
+        "scores": {
+            "metascore": "88",
+            "userscore": "8.3"
+        }
+    },
+    "43": {
+        "title": "Tiger Woods PGA Tour 2005",
+        "date": "September 20, 2004",
+        "summary": "Challenge professional golfer Tiger Woods to challenging matches in Tiger Woods PGA Tour 2005. This time, you can modify course dynamics and add longer trees, tighter fairways, undulations to greens, deeper bunkers, and more. The game's EA Sports Game Face features nonproportional bone scaling and texture blending to provide more realistic looks. After creating your own golfer and making a name for yourself, unlock the chance to tee off against some of golf's greatest legends, including Arnold Palmer, Jack Nicklaus, and Ben Hogan.",
+        "scores": {
+            "metascore": "88",
+            "userscore": "tbd"
+        }
+    },
+    "44": {
+        "title": "DOOM 3",
+        "date": "August 3, 2004",
+        "summary": "id Software's terrifying battle with the forces of Hell. A massive demonic invasion has overwhelmed the Union Aerospace Corporations\u2019 (UAC) Mars Research Facility leaving only chaos and horror in its wake. As one of only a few survivors, you struggle with shock and fear as you fight your way to Hell and back, in an epic clash against pure evil. Built on id\u2019s revolutionary new 3D graphics engine, DOOM 3 draws you into the most frightening and gripping 3D gaming experience ever created.",
+        "scores": {
+            "metascore": "87",
+            "userscore": "7.7"
+        }
+    },
+    "45": {
+        "title": "Rallisport Challenge 2",
+        "date": "May 4, 2004",
+        "summary": "After spending more than a year in the garage, RalliSport Challenge 2 emerges with more cars and tracks, new race modes, and online multiplay through Xbox Live. You can choose from more than 40 rally cars and race on different tracks from Australia, the frozen Nordic, and the Pacific Northwest. As you test your skills in five different rally sports, you'll experience variable weather conditions, broken windows and missing hoods, and realistic physics.",
+        "scores": {
+            "metascore": "87",
+            "userscore": "8.3"
+        }
+    },
+    "46": {
+        "title": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+        "date": "March 23, 2004",
+        "summary": "Once again assume the role Sam Fisher as you defend and assist the U.S. troops who become emroiled in a conflict between East Timor and Indonesian guerillas. Immerse yourself into a deep, tangible, tension-packed techno-thriller without compare. Master your new arsenal of moves and gadgets to save the innocent from a global threat. Conceal yourself in real-time moving shadows for the first time.",
+        "scores": {
+            "metascore": "87",
+            "userscore": "7.9"
+        }
+    },
+    "47": {
+        "title": "Paper Mario: The Thousand-Year Door",
+        "date": "October 11, 2004",
+        "summary": "Get ready for a new role-playing adventure as Mario returns to paper form to stop a dangerous threat. In Paper Mario 2, Mario can dodge, inflict damage, and impress the crowd to strengthen his attacks. Also, Mario and his friends have more paper abilities. They can now turn sideways to slip through cracks, fold into a paper airplane to fly, roll into a tube, and more. They can also use a variety of items like hammers and thunderbolts to defeat their enemies.",
+        "scores": {
+            "metascore": "87",
+            "userscore": "9.1"
+        }
+    },
+    "48": {
+        "title": "NASCAR 2005: Chase for the Cup",
+        "date": "August 31, 2004",
+        "summary": "NASCAR 2005: Chase for the Cup challenges you to battle through a groundbreaking new story mode to achieve NASCAR stardom. Start from humble beginnings by earning NASCAR Busch, Craftsman Truck and Featherlite Modified series rides before grabbing million-dollar purses in the NEXTEL Cup Series. Develop your racing skills and intimidate your rivals on the track with all-new controls. Off the track, force the action with post-race confrontations, and settle disputes by racing America?s top production cars through city streets. Fans react to the drama, idolizing both NASCAR heroes and villains, while owners and sponsors recognize talent and reward success. It's up to you to show 'em what you've got. [Electronic Arts]",
+        "scores": {
+            "metascore": "87",
+            "userscore": "8.2"
+        }
+    },
+    "49": {
+        "title": "Call of Duty: United Offensive",
+        "date": "September 14, 2004",
+        "summary": "Call of Duty: United Offensive's single player campaign allows gamers to experience more of WWII's most crucial and legendary conflicts, including The Battle of the Bulge, The Battle of Kursk and the invasion of Sicily, as they fight through more than ten intense all-new maps.  The game features new weapons, character abilities, weather effects and explosions, adding even more realism to the chaotic battlefields. Additionally, Call of Duty:  United Offensive expands on the popular multiplayer experience of Call of Duty, offering new multiplayer maps that set the stage for tank combat, as well as tank-and-foot-soldier combined arms action, providing the ultimate battle of Axis vs. Allies.  Fans will also enjoy three new multiplayer gameplay modes, including Tank Battle, Capture the Flag and Domination - where squads must take control of key locations while preventing enemy troops from advancing. [Activision]",
+        "scores": {
+            "metascore": "87",
+            "userscore": "8.3"
+        }
+    },
+    "50": {
+        "title": "Tom Clancy's Splinter Cell Pandora Tomorrow",
+        "date": "June 16, 2004",
+        "summary": "Once again assume the role Sam Fisher as you defend and assist the U.S. troops who become emroiled in a conflict between East Timor and Indonesian guerillas. Immerse yourself into a deep, tangible, tension-packed techno-thriller without compare. Master your new arsenal of moves and gadgets to save the innocent from a global threat. Conceal yourself in real-time moving shadows for the first time.",
+        "scores": {
+            "metascore": "87",
+            "userscore": "8.3"
+        }
+    },
+    "51": {
+        "title": "ESPN NHL 2K5",
+        "date": "August 30, 2004",
+        "summary": "ESPN NHL Hockey returns to the ice with the confidence of a seasoned veteran. Improved player control, an all-new fighting engine and lightning fast gameplay truly capture the feel and pace of NHL-caliber hockey. ESPN NHL 2005 features breakthrough new ways to play including online leagues, multi-player mini-games and a deeper franchise mode adding endless replay value to an already robust lineup. Deeper and more interactive than before, this season's Skybox features more than 150 unlockables, including more retro jerseys, remote outdoor locations and more. Execute sliding poke checks, swipe at loose pucks and more with new defensive stick controls that give you hands-on stick movement in a variety of defensive situations. With exclusive ESPN presentation players will experience all the on-ice action called by ESPN veteran commentators, Gary Thorne and Bill Clement. [Sega]",
+        "scores": {
+            "metascore": "86",
+            "userscore": "8.1"
+        }
+    },
+    "52": {
+        "title": "NASCAR 2005: Chase for the Cup",
+        "date": "August 31, 2004",
+        "summary": "Do you have what it takes to be a top NASCAR driver? In NASCAR 2005: Chase for the Cup, you can become a superstar owner or driver and decide where, how, and what to drive. During races you can even rattle rivals with the all-new Intimidator button. Push them too far and you might find yourself in a postrace confrontation. Develop essential racing skills, increase fan support, and compete in four racing series to become the driver that top NASCAR teams are looking for.",
+        "scores": {
+            "metascore": "86",
+            "userscore": "tbd"
+        }
+    },
+    "53": {
+        "title": "EverQuest: Omens of War",
+        "date": "September 13, 2004",
+        "summary": "Follow the Wayfarers Brotherhood to the war-ravaged Realm of Discord to help end the tyrannical ways of the Muramites once and for all.  Mata Muram, the leader of the Muramites, is rumored to be building the ultimate invading army. It's up to you to thwart his plans. Experience EverQuest: Omens of War and the twisted lands of a realm where war is persistent and death is constant.  Face the fear of the Battlegrounds of Discord. Explore the shattered landscapes of the Discordant Plateau. Then take your fury to a landscape that teems with Muramites preparing to invade not just Norrath, but countless innocent worlds.  Adventure solo, or in groups and raids to complete \"epic quests\" and earn prestigious weapons. [Sony Online Entertainment]",
+        "scores": {
+            "metascore": "86",
+            "userscore": "8.0"
+        }
+    },
+    "54": {
+        "title": "ESPN College Hoops 2K5",
+        "date": "November 17, 2004",
+        "summary": "Experience all the excitement of college basketball in this year's installment in the ESPN College Hoops series. ESPN College Hoops 2K5 gives you even more management options in a revamped legacy mode, including scouting, balancing out the budget, and finding better coaching opportunities around the league. On the court, a new \"pass-n-go\" system lets you perform lead passes to your teammates and execute advanced give-and-go and alley-oop plays. If you'd rather coach than play, you can play in coach mode, in which you're responsible for calling the plays, directing your players, and making key decisions in overtime.",
+        "scores": {
+            "metascore": "86",
+            "userscore": "7.6"
+        }
+    },
+    "55": {
+        "title": "Guilty Gear X2 #Reload",
+        "date": "September 14, 2004",
+        "summary": "Now you can play Guilty Gear on Xbox Live in head-to-head competitions that feature real-time global rankings, voice support, and friend lists. Guilty Gear X2 #Reload lets you battle your favorite Guilty Gear characters in a variety of modes, including Arcade, Medal of Millionaire, Versus, Survival, Story, Mission, and Training. You can master all the moves, combos, and signature kills of 20 characters plus hidden and EX characters. Fine-tune your skills so that you can defeat the Gears--intelligent creatures that threaten human control of the planet.",
+        "scores": {
+            "metascore": "86",
+            "userscore": "7.8"
+        }
+    },
+    "56": {
+        "title": "Star Wars: Knights of the Old Republic II: The Sith Lords",
+        "date": "December 6, 2004",
+        "summary": "The next chapter of Star Wars: Knights of the Old Republic begins with a new storyline, force powers, characters, classes, and locations. Approximately five years after the events of the original Star Wars: Knights of the Old Republic, the Jedi, nearly brought to an end by the Sith, are on the brink of extinction. As the last of the Jedi, you must master more than 30 new Force powers while battling your way through seven different worlds. This time, you can split your party to use several characters from your team for concurrent side quests.",
+        "scores": {
+            "metascore": "86",
+            "userscore": "8.6"
+        }
+    },
+    "57": {
+        "title": "The Legend of Zelda: Four Swords Adventures",
+        "date": "June 7, 2004",
+        "summary": "The legend continues on the GameCube in an all-new epic adventure for one to four players. To thwart Vaati's vile forces, Link turns to the mystical power of the Four Swords to split himself into four colored copies of himself. Now you and your friends can simultaneously participate in cooperative and competitive action and master skills and techniques new to the Legend of Zelda series. In Four Swords Adventures, up to four players can link their Game Boy Advances to the GameCube to join a fun and intense competition for Force Gems while cooperating to move massive blocks, trigger switches, and slay mighty bosses.",
+        "scores": {
+            "metascore": "86",
+            "userscore": "7.5"
+        }
+    },
+    "58": {
+        "title": "Tales of Symphonia",
+        "date": "July 13, 2004",
+        "summary": "In a dying village on Sylvarant, legend has it that a Chosen One will one day appear from among the people, and the land will be reborn. Now, you must enter a cel-shaded world in which you command real-time battles. Execute and combine hundreds of special attacks, magic spells, and combos. Each character grows to suit your fighting style, and the storyline changes based on the characters' relationships. The line between good and evil blurs in this immersive adventure where the fate of two interlocked worlds hangs in the balance.",
+        "scores": {
+            "metascore": "86",
+            "userscore": "9.0"
+        }
+    },
+    "59": {
+        "title": "Katamari Damacy",
+        "date": "September 21, 2004",
+        "summary": "(Also known as \"Katamari Damashii\" )  In Katamari Damacy, players take on the role of Prince of the Cosmos, whose father \u00ad the great King \u00ad managed to inadvertently knock the stars out of the sky. As the prince, a player's duty is to clean up the King's mess and re-create the starry skies by rolling around the cleverly designed locations to collect objects and build up their 'katamari' -- a Japanese word for clump or large mass. The catch is that it's not the quality or the actual number of objects gathered that is most critical to the player's success, but instead the sheer size of the player's 'katamari' that is most important. Along the way, players can roll over hundreds of unusual objects of all sizes and shapes including cookies, cars, mermaids, planes, clouds and even people. The larger the player's 'katamari' grows, the more objects the player can amass along the way -- thus proving if you want to succeed in Katamari Damacy -- size does matter. Katamari Damacy features a single-player story mode and a two-player battle mode. The simple game play mechanics allow for optimal ball rolling and object collecting fun. [Namco]",
+        "scores": {
+            "metascore": "86",
+            "userscore": "8.8"
+        }
+    },
+    "60": {
+        "title": "Warhammer 40,000: Dawn of War",
+        "date": "September 20, 2004",
+        "summary": "Warhammer 40,000: Dawn of War is a science fiction real-time strategy (RTS) game set in the violent, post-apocalyptic universe of the 41st Millennium. Utilizing the exceptional game design skills of Relic Entertainment, Dawn of War provides an immersive entertainment experience of epic proportions. Command hardened troops, deadly vehicles and high tech weaponry with one goal in mind, the complete extermination of the opposition. Whether you lead Humanity's finest - the Space Marines, the diabolic and villainous traitors of man - the Chaos Space Marines, the brutal and savage beasts - the Orks, or the psychic and technologically advanced alien warriors - the Eldar, you control the action and the fate of your race! [THQ]",
+        "scores": {
+            "metascore": "86",
+            "userscore": "8.8"
+        }
+    },
+    "61": {
+        "title": "Viewtiful Joe 2",
+        "date": "November 18, 2004",
+        "summary": "Joe and Silvia are back in this sequel to Viewtiful Joe. This time you have more style, new special moves, and more than 40 new enemies to defeat. Now Joe's trusty aircraft transforms into various shapes to support his activities throughout the game's many stages. In addition to Joe, you can play as Silva, Joe's girlfriend. Call upon the powers of Joe and Silvia, and get ready to both solve new puzzles and save the day.",
+        "scores": {
+            "metascore": "86",
+            "userscore": "8.3"
+        }
+    },
+    "62": {
+        "title": "ESPN College Hoops 2K5",
+        "date": "November 17, 2004",
+        "summary": "Capturing the true spirit and pageantry of collegiate roundball is one of the most important aspects in a college basketball title, and ESPN College Hoops 2K5 improves upon its stellar presentation to give gamers the ultimate college hoops experience. Smarter crowd intelligence and enhanced audio options deliver the perfect college ambiance, while ESPN anchors Jay Bilas and Mike Patrick return with a textbook full of commentary to illustrate the emotional tide of every tip-off. The game features completely new online features to satisfy even the most die-hard collegiate basketball junkies. Fans across North America benefit from new online leagues and tournaments, comprehensive statistics tracking, living rosters, and much more. [Sega]",
+        "scores": {
+            "metascore": "86",
+            "userscore": "8.1"
+        }
+    },
+    "63": {
+        "title": "Madden NFL 2005",
+        "date": "September 14, 2004",
+        "summary": "Force the action on defense in Madden NFL 2005. New defensive tools allow you to make more plays and be in on all of the action. The all-new Hit Stick lets you lay the big hit to turn the momentum of the game in your favor. Modify pre-snap assignments, including double teams and player-specific match ups, for any defensive player on the field. With the new Storyline Central, you get the inside scoop around the league from radio host Tony Bruno, along with local and national newspapers, to help you make critical franchise decisions. New Hit Stick ? Change the momentum of a game by using the right analog stick to make a huge hit, force a turnover, and send the crowd into a frenzy. Time it just right or you'll get burned for a big play. Enhanced Franchise Mode ? Players now react to everything that happens in the franchise?reward a hard-working player by naming him team captain or trade away unhappy players. The new game-by-game progression system rewards players for their performance during the season. Your team's crowd is now customizable with new Create-a-Fan. Be on the lookout for team-specific super fans via all-new 3D fan scenes. New EA SPORTS Online ? Take on the best Madden players in quick tournaments, or compete in a mini-game of Rushing Attack. Improved EA SPORTS Fair Play keeps the playing field level. [Electronic Arts]",
+        "scores": {
+            "metascore": "85",
+            "userscore": "6.4"
+        }
+    },
+    "64": {
+        "title": "City of Heroes",
+        "date": "April 27, 2004",
+        "summary": "City of Heroes is a super-powered hero based massively multiplayer online role-playing game. The game is set in Paragon City, a modern day metropolis full of super powered villains, alien invaders, and underground monsters. Players take on the roles of Paragon City's super-powered defenders. Create your own hero by choosing your powers and designing your own costume. [NCsoft]",
+        "scores": {
+            "metascore": "85",
+            "userscore": "8.4"
+        }
+    },
+    "65": {
+        "title": "Onimusha 3: Demon Siege",
+        "date": "April 27, 2004",
+        "summary": "In Onimusha 3 Demon Siege the year is 1582 and 10 years have passed since the events that unfolded in Onimusha 2 Samurai?s Destiny. The stage is set at the burning Honnoji Temple, as the famous Onimusha warrior Samanosuke Akechi (Takeshi Kaneshiro) continues to fight the demons in his path. The moment has finally arrived for Samanosuke to confront the true enemy that has eluded him until now, the undying Nobunaga Oda. Unfortunately before the long-awaited final battle begins, Samanosuke is suddenly engulfed in a whirlpool of light and disappears. The year is 2004. A peaceful French metropolis is suddenly attacked by demons. In the blink of an eye, the city is transformed into a hellish sea of blood as Genma demons slaughter civilians and soldiers one by one. Within this pit of darkness appears one man who stands up against the Genma demons, Jacques Braun (Jean Reno). As a member of the French army, Jacques is deployed to the nightmarish scene only to discover himself amid a plague of horrific enemies that are beyond anyone?s imagination. An ancient samurai warrior unexpectedly appears to help him defend the helpless city. As they cooperatively fight off the demons, Jacquesis caught in a mysterious vortex and vanishes to feudal Japan, leaving the warrior behind in modern day France. Why has Samanosuke appeared in present Paris and Jacques in feudal Japan? What fate awaits these two men? The fierce and bloody battle is unfurled as the beginning of the final Onimusha chapter unfolds. [Capcom]",
+        "scores": {
+            "metascore": "85",
+            "userscore": "8.7"
+        }
+    },
+    "66": {
+        "title": "Astro Boy: Omega Factor",
+        "date": "August 18, 2004",
+        "summary": "Join Astro, the robotic superhero with a human mind, in a quest to reunite the robotic race with humans. Astro uses his seven super abilities to face off against the likes of Atlas, Blue Knight, and more than 40 other characters. The game brings classic 2D gaming to the Game Boy Advance along with an original seven-episode story. Playing as Astro Boy, you'll learn about justice, compassion, evil, courage, and the history of Astro Boy--all while building Astro's Omega Factor and strengthening his character and superhuman abilities.",
+        "scores": {
+            "metascore": "85",
+            "userscore": "8.7"
+        }
+    },
+    "67": {
+        "title": "Fable",
+        "date": "September 14, 2004",
+        "summary": "In Fable, every action determines your skill, appearance, and reputation. From childhood to death, you'll age and evolve a hero or villain through the actions you choose and the path you follow--be it good, evil, or in between. Your muscles expand with each feat of strength; your body becomes fatter with gluttony; your skin tans with exposure to sunlight; and your battle wounds turn into scars. Competitive and cooperative heroes, deadly creatures, dynamic weather systems, and deformable environments all exist in the ever-changing land of Fable.",
+        "scores": {
+            "metascore": "85",
+            "userscore": "8.4"
+        }
+    },
+    "68": {
+        "title": "Shadow Hearts: Covenant",
+        "date": "September 27, 2004",
+        "summary": "(Also known as \"Shadow Hearts II\" in Japan) The story unfolds via amazingly detailed cutscenes which bring the enthralling and complex characters, powerful battle sequences and unique gameplay to life. Shadow Hearts: Covenant also brings back the innovative combat system, the Judgment Ring, which not only allows players to choose which characters to bring to battle, but also determines the final outcome of the battle based on the players' speed and accuracy. New to the Shadow Hearts sequel, are enhancements to the Judgment Ring which allow team-based combo attacks. Set during World War I in a fantastical world of magic and creatures, the game takes place six months after the original Shadow Hearts ended. Yuri, the main character is back, and he embarks on a new expedition with friends Gepetto, a puppet master, and Kallen, a German female soldier. Yuri's morphing abilities have been weakened because he has been cursed by Nicholas, a member of a secret society taking advantage of the war to fulfill their evil ambitions of ruling the world. Yuri and his companions must journey to find a cure for his curse and defeat the malevolent cult. [Midway]",
+        "scores": {
+            "metascore": "85",
+            "userscore": "8.8"
+        }
+    },
+    "69": {
+        "title": "NBA Live 2005",
+        "date": "September 28, 2004",
+        "summary": "Elevate your game on both ends of the court with NBA Live 2005. Create new dribble moves, flashy dunks, and tenacious defensive plays that express your individual style--all with a touch of the right analog stick. The new 10-man Freestyle implementation enhances individual player movements and floor spacing, putting you in the middle of the action. Enhanced player graphics reproduce NBA players with realistic faces, hairstyles, jerseys, and shoes. NBA Live 2005 also offers a deeper Dynasty mode, where you can watch your franchise flourish for 25 seasons.",
+        "scores": {
+            "metascore": "85",
+            "userscore": "7.6"
+        }
+    },
+    "70": {
+        "title": "Viewtiful Joe 2",
+        "date": "December 7, 2004",
+        "summary": "At the beginning of this new adventure, we find Joe and his girlfriend, Silvia, ready to face even tougher enemies and greater challenges. This time around, not only will gamers be able to play as Joe, but as Silvia right off the bat as well. In addition to being equipped with her pompoms, Silvia will be packing some heat as she wields a projectile weapon to help defeat the encroaching evil that lurks in the shadows. Keeping to the stylized yet richly detailed visuals, Viewtiful Joe 2 stays true to its masterfully crafted roots and delivers an even more brilliant and polished videogame. New cinematic visual effect (VFX) powers, such as ?Replay? which allows gamers to repeat a part of the action for heroic results, have been implemented to help solve ingenious puzzles, defeat unique yet relentless enemies and add variety to gameplay: Spanning across an increased number of stages and environments including a jungle, snowy mountains and outer space, Viewtiful Joe 2 incorporates more impressive quasi 2D/3D action with over 40 new types of adversaries to obliterate. The not-so-average-Joe will once again break the gaming mold and deliver an experience unlike any other with his polished martial arts attacks, high-flying acrobatics, and compelling storyline. [Capcom]",
+        "scores": {
+            "metascore": "85",
+            "userscore": "7.9"
+        }
+    },
+    "71": {
+        "title": "Champions of Norrath",
+        "date": "February 10, 2004",
+        "summary": "Create your own champions, each with unique powers, appearances and skills in this Action RPG. Experience an epic adventure filled with powerful action and ominous intrigue. Battle vicious monsters where your mastery of weaponry and spells is the only thing between you and the supremacy of evil. Champions of Norrath allows gamers to create their own unique hero to journey from the city of Faydwer into the wilds of Norrath to save the land from a gathering army of evil orcs and goblins. Players can adventure alone or with a band of up to three other players either over the Internet or on a single PlayStation 2 system with a Multitap. Import player characters into friends' games using a memory card and then take them home to play solo--the play options offer console gamers the freedom to play anytime and from any location. Champions of Norrath offers players more than 100 hours of gameplay per player character, unlimited battles, deadly missions and unmatched character customization in an enthralling fantasy world. [Sony Online Entertainment]",
+        "scores": {
+            "metascore": "85",
+            "userscore": "8.3"
+        }
+    },
+    "72": {
+        "title": "Super Mario 64 DS",
+        "date": "November 20, 2004",
+        "summary": "Super Mario 64, the genre-defining Nintendo 64 classic, arrives on the Nintendo DS with all-new features that take full advantage of the new portable system's dual screens, touch screen and wireless multiplayer capability. Play as Mario, Yoshi, Luigi and even Wario. You'll need to use each one's unique abilities to find 150 Power Stars hidden in the castle and grounds. Play through Adventure mode and try your stylus-wielding hand at tons of new touch-sensitive mini-games. Battle up to three friends in Wireless Versus mode, which you can play with only one Super Mario 64 DS game card. Each of the four main characters has multiple jumping moves that cover great horizontal and vertical distances. Each has unique moves: Yoshi can eat enemies and turn them into eggs that he can throw; Mario can punch, kick and wall-jump to great heights; super-strong Wario can break certain blocks; and Luigi can jump incredibly high. Power Flowers give each character even cooler powers, like invisibility, fire breath or the power to float through the air. [Nintendo]",
+        "scores": {
+            "metascore": "85",
+            "userscore": "8.2"
+        }
+    },
+    "73": {
+        "title": "Final Fantasy XI",
+        "date": "March 23, 2004",
+        "summary": "The world of Vana'diel stands at the brink of war. Three powerful nations, united in their plight against the beastmen forces, look to their last hope -- brave adventurers like you! Will the beastmen gain the upper hand, and thrust the once-peaceful Vana'diel into another war? Step into the world of Vana'diel and journey forth on grand adventures with players from all across the globe! Final Fantasy XI is the first online game in the award-winning FINAL FANTASY series. How you play is up to you, with limitless possibilities for adventure. Set out on your own to discover the countless secrets of Vana'diel, or form a party with your friends to purge the beastman forces and bring home sensational spoils! [Square Enix]",
+        "scores": {
+            "metascore": "85",
+            "userscore": "6.9"
+        }
+    },
+    "74": {
+        "title": "Thief: Deadly Shadows",
+        "date": "May 25, 2004",
+        "summary": "In Thief: Deadly Shadows, gamers once again take on the role of Garrett, a master thief. Garrett is rarely seen, never caught and capable of breaking into the most ingeniously secured places. Garrett steals from the wealthy and gives to himself, making his living in the dark and foreboding City. Preferring to be left alone to ply his trade, prophecies of an impending Dark Age dictate a different plan for the thief. In Garrett?s efforts to prevent this approaching Dark Age, he has inadvertently roused an ancient hidden evil. Without allies, Garrett finds himself standing alone between the City and the forces that would crush it. [Eidos Interactive]",
+        "scores": {
+            "metascore": "85",
+            "userscore": "8.3"
+        }
+    },
+    "75": {
+        "title": "Metal Gear Solid: The Twin Snakes",
+        "date": "March 9, 2004",
+        "summary": "Solid Snake debuts on the GameCube in Metal Gear Solid: The Twin Snakes.  This game revives the first two Metal Gear Solid games--Metal Gear Solid and Metal Gear Solid 2: Sons of Liberty--and combines their best features into one unique experience.  You are Solid Snake--a spy called out of retirement to infiltrate an Alaskan nuclear base.  During your mission, you'll discover secret military projects and surprising details about your past.  Stealth is usually key to a successful mission, but if all else fails, you have a vast arsenal of weapons--including a silenced pistol, a rifle, guided missiles, and a sniper rifle--to dispose of your enemies.",
+        "scores": {
+            "metascore": "85",
+            "userscore": "8.9"
+        }
+    },
+    "76": {
+        "title": "EverQuest: Gates of Discord",
+        "date": "February 9, 2004",
+        "summary": "The greatest threat to the world of Norrath has been unleashed in EverQuest! The lost continent of Taelosia has been discovered and a massive assault force, the Legion of Mata Muram, is creating chaos and devastation on this once peaceful continent! Experience EverQuest: Gates of Discord and help protect your world while adventuring in many new zones, including a stony city, sprawling temples, a myriad of catacombs, and a maze of sewers. And meet the Berserker, the newest EverQuest character class and perhaps your closest allies in melee combat against the invading hoard of fearless, deadly monstrosities from the chaotic Realm of Discord. [Sony Online Entertainment]",
+        "scores": {
+            "metascore": "85",
+            "userscore": "7.3"
+        }
+    },
+    "77": {
+        "title": "Fight Night 2004",
+        "date": "April 5, 2004",
+        "summary": "EA Sports returns to the boxing ring with Fight Night 2004. Built to deliver all the drama and pageantry of a heavyweight title bout, Fight Night 2004 features real fighters with authentic moves. With Total Punch Control, the analog sticks become intuitive extensions of your fists, giving you more control over punches, blocks, and dodges. Create your own fighter in Career mode, customize your ring entrance, and then work your way from amateur to undisputed champion.",
+        "scores": {
+            "metascore": "85",
+            "userscore": "8.2"
+        }
+    },
+    "78": {
+        "title": "ESPN NBA 2K5",
+        "date": "September 28, 2004",
+        "summary": "This year's installment in the ESPN NBA series features a host of gameplay improvements. Now a player's ability and physical makeup determine how fast he can run up the court on a fast break, how well he can cut to the basket off his opponent, and more. IsoMotion2 gives you more control over dribbling moves and makes it easier to handle overaggressive ball handlers. Develop your created player's career in a revamped 24/7 mode, or take on your friends in new multiplayer games.",
+        "scores": {
+            "metascore": "85",
+            "userscore": "8.1"
+        }
+    },
+    "79": {
+        "title": "Tony Hawk's Underground 2",
+        "date": "October 4, 2004",
+        "summary": "You've been chosen by Tony Hawk to take on Bam Margera as your teams go on a World Destruction Tour. It's time to go globetrotting on an insane road trip. THUG 2 grinds in with a hilarious story mode, an unprecedented level of customization, and more moves than the Skate Gods could dream of. Grab your board, an arsenal of spray-paint... jump into the tour van and wreak havoc across the globe. World Destruction Tour: Hawk recruits YOU onto his team for a no rules, no limits world tour versus Bam Margera. You invade international cities and wreak havoc, proving yourself to the pros as you live the ultimate skateboard adventure. All New Team Play: Team Hawk versus Team Bam. Play as yourself or switch to play one of your teammates or a special guest skater ? over 20 unique characters. Unparalleled Customization: Create your own logo for use in graffiti tags, skate stickers with the all new \"Create-A-Graphic\" feature. Familiar Hawk customization continues with \"Create-A-Goal,\" \"Create-A-Park\" and the revolutionary \"Face In The Game\" feature. More Player Control Than Ever Before: Tear it up with sticker slaps, projectiles, crazy vehicles, hilarious tantrums, and slow-motion Focus Control. 2 Games In 1: Team up and wreak havoc in Story Mode or switch and play 15 levels in Classic Mode. Complete your all-time favorite goals like S-K-A-T-E, Secret Tape, and High Score against a 2-minute timer.",
+        "scores": {
+            "metascore": "85",
+            "userscore": "7.7"
+        }
+    },
+    "80": {
+        "title": "Fight Night 2004",
+        "date": "April 5, 2004",
+        "summary": "Built from the ground up to deliver all the drama and pageantry of a heavyweight title bout, EA SPORTS FIGHT NIGHT 2004 is the most authentic boxing experience to date, sporting a dramatic new-school attitude, a dynamic new cinematic approach, and revolutionary boxing gameplay. With Total Punch Control, EA SPORTS FIGHT NIGHT 2004 allows gamers to pummel their opponents with surgical precision, controlling both punch location and power to bring the hurt with style and strategy. Plus, an all-new defensive system gives players full body control as they make a run at the title. All-New Total Punch Control: Hammer the competition with this innovative new feature -- the right analog stick becomes an intuitive extension of your fists, giving you total control of every punch. Stick and Move: Use the analog sticks to bob and weave, block punches, and frustrate opponents by shutting down and countering their attacks. Be the Ultimate Fighting Machine: Create a fighter who looks exactly like you in Career Mode, and work your way from amateur to title contender to undisputed champion. Customize Your Ring Entrance: Psych out your opponent, show your personality, and win over the crowd with your hand-chosen music, special effects and entourage. Knock 'em Out Online: Step into the online ring and go toe-to-toe against other top fighters to see how you stack up against the nation's best. [EA Sports]",
+        "scores": {
+            "metascore": "85",
+            "userscore": "8.7"
+        }
+    },
+    "81": {
+        "title": "Mario Golf: Advance Tour",
+        "date": "June 22, 2004",
+        "summary": "In Mario Golf Advance Tour, you can experience all the fun of golf with your favorite characters from the Mushroom Kingdom. Now you can hit fantastic courses in a variety of locales, while learning tips and tricks and interacting with locals at the clubhouse. Compete in singles and doubles tournaments against the pros, practice your swing at the golf clinics, and master side games. Hit all 18 holes with Mario, Peach, Donkey Kong, and more.",
+        "scores": {
+            "metascore": "84",
+            "userscore": "8.7"
+        }
+    },
+    "82": {
+        "title": "Fatal Frame II: Crimson Butterfly Director's Cut",
+        "date": "November 1, 2004",
+        "summary": "Terror returns with Fatal Frame 2: Crimson Butterfly, the sequel to the highly popular survival horror title, Fatal Frame.  This time the terrifying journey takes you to a whole new creepy setting, an abandoned village, where you play the role of Mio Amakura, a young girl who is gifted with a strong sixth sense and her twin sister Mayu, who notices a crimson butterfly faintly glowing in the sky.  Your only weapon, an antique camera, has received a variety of new features to kill ghosts.  Get lost in another horrifying tale.",
+        "scores": {
+            "metascore": "84",
+            "userscore": "8.8"
+        }
+    },
+    "83": {
+        "title": "NBA Live 2005",
+        "date": "September 28, 2004",
+        "summary": "The EA Sports Freestyle Control continues to revolutionize your ability to play simulation basketball?and, now more than ever, it's about expressing your game in flight with Freestyle Air. In addition to all-new dunks, alley-oops, and adjustable jump shots in mid-air, new user-controlled put-back and tip-in technologies reward players who box out, wipe the glass, and go back up for a quick bucket. On defense, take more control over shot blocking to own the paint. Freestyle Air elevates NBA Live 2005 above the rim in the all-new NBA All-Star Weekend mode by allowing users to take complete control and create jaw-dropping, customized dunks in the Slam Dunk Contest. With thousands of unique dunk scenarios?from bouncing the ball off the backboard, to jumping from the free throw line, to going between your legs in mid flight?Freestyle Air lets you express your game on the court, and above it. Also featuring the 3-Point Shootout, the Rookie Challenge, and the NBA All-Star Game, All-Star Weekend is available as a stand-alone game mode as well as within Dynasty Mode. Be the architect of your own unstoppable dynasty, and watch your franchise flourish for 25 seasons. Jump into games with simulation intervention and use the customizable PDA to stay updated with important league news, team information, and other announcements. New free agency logic allows users to negotiate contracts and manage the salary cap using real dollars for the first time. [Electronic Arts]",
+        "scores": {
+            "metascore": "84",
+            "userscore": "8.2"
+        }
+    },
+    "84": {
+        "title": "Colin McRae Rally 04",
+        "date": "March 4, 2004",
+        "summary": "This year's installment in the Colin McRae Rally series features new championships, new single- and multiplayer modes, and different car-part-testing challenges. You can drive any car from the start in the Open Championship mode; you can compete in a full rally season; or you can specialize in a 4- or 2-wheel-drive championship. You can also put together your favorite or themed stages, which can include straights, jumps, or hills. More than 20 vehicles, which exhibit improved physics and handling, are available for play, including the Citroen Xsara, Mitsubishi EVO 7, and Subaru Impreza.",
+        "scores": {
+            "metascore": "84",
+            "userscore": "8.1"
+        }
+    },
+    "85": {
+        "title": "Tom Clancy's Rainbow Six 3: Black Arrow",
+        "date": "August 4, 2004",
+        "summary": "A series of attempts to kidnap telemetry and rocket scientists pulls Team Rainbow into a spider web of international intrigue. Team Rainbow must stop terrorists from developing weapons of mass destruction and prevent them from starting a devastating war. Guide Team Rainbow through a new campaign set in Mediterranean and Eastern European level environments, while gathering new weapons and other equipment. Tom Clancy's Rainbow Six 3: Black Arrow also features new multiplayer game modes for both online and offline play.",
+        "scores": {
+            "metascore": "84",
+            "userscore": "8.1"
+        }
+    },
+    "86": {
+        "title": "Classic NES Series: Super Mario Bros.",
+        "date": "June 2, 2004",
+        "summary": "Classic NES Series: Super Mario Bros. takes you back to the very first battle between Mario and Bowser. Now on the Game Boy Advance, you can relive all the mushroom-eating, Koopa-stomping action from the original game. Always strive for the high score while jumping on top of flag poles, pipes, and bricks. This time, two players can alternate play with a single Game Pak or with GBAs linked by a Game Boy Advance Game Link Cable.",
+        "scores": {
+            "metascore": "84",
+            "userscore": "8.7"
+        }
+    },
+    "87": {
+        "title": "Ace Combat 5: The Unsung War",
+        "date": "October 25, 2004",
+        "summary": "(Also known as \"Ace Combat 5: Squadron Leader\")  With more than 50 different licensed planes and an intense storyline extending over 30 missions, players will be put to the ultimate test, including air-to-air combat, air-to-ground fighting, air-to-sea assaults, rescue, recon and much more. Incorporating ultra-realistic beautifully rendered in-game graphics and cinematics along with unparalleled game play; ACE COMBAT 5 goes a step beyond the traditional air combat gaming experience. One of the exciting new features to the sequel includes Wingman Command, where players can issue directives to their wingmen mid-mission to carry out coordinated group attacks. Additionally, the in-game radio communications with the squadron and enemies adds to the realism and intensity of the dynamic battle sequences. In the game's premise, it is September 23, 2010 on distant Sand Island, a small island in the Ceres Ocean that divides the two superpowers, Osea and Yuktobania. An entire military base is on red alert--the 108th Tactical Fighter Squadron intercepted an unidentified aircraft and the entire squadron was decimated. You are a fighter pilot, part of the new squadron that's been called into action to protect your nation of Osea. Now, the story begins to unfold. [Namco]",
+        "scores": {
+            "metascore": "84",
+            "userscore": "8.9"
+        }
+    },
+    "88": {
+        "title": "James Bond 007: Everything or Nothing",
+        "date": "February 17, 2004",
+        "summary": "Think like Bond, act like Bond, and experience an entirely new Bond adventure.  James Bond, the world's greatest secret agent, returns in Everything or Nothing with new guns and gadgets, combat skills, and clever tricks--and it's up to you to put them to good use.  Travel through four exciting continents including the Valley of the Kings in Egypt and the French Quarter in New Orleans.  The game also features two-player co-op missions and four-player multiplayer arena modes.",
+        "scores": {
+            "metascore": "84",
+            "userscore": "8.4"
+        }
+    },
+    "89": {
+        "title": "Psi-Ops: The Mindgate Conspiracy",
+        "date": "June 14, 2004",
+        "summary": "Your most powerful weapon is your mind in Psi-Ops: The Mindgate Conspiracy, an action/adventure game that utilizes extensive Psi (mind) powers combined with traditional weapons combat, providing gamers with unique gameplay attributes that clearly differentiate it from any other title in the action/adventure genre. In order to combat a Psi terrorist movement set to overthrow world order, you, as an elite American Psi-operative soldier, must fight using Telekinesis, Mind Control, Pyrokinesis, Mind Drain, Aura View and Remote Viewing to win a very serious \"mind game\" against an army of brainwashed terrorist super soldiers and powerful Psi agents. [Midway]",
+        "scores": {
+            "metascore": "84",
+            "userscore": "8.6"
+        }
+    },
+    "90": {
+        "title": "Def Jam: Fight for NY",
+        "date": "September 20, 2004",
+        "summary": "Def Jam Fight for NY takes the battle for hip-hop domination into the fighting ring. More than 35 hip-hop artists and personalities--including Busta Rhymes, Carmen Electra, Lil' Kim, Ludacris, Method Man, Redman, Sean Paul, Slick Rick, and Snoop Dogg--face off in brutal wrestling matches. In the ring and on the streets, you'll join the battle as a New York City street fighter. The game challenges you to develop your own fighting style and seize control of the hip-hop underworld.",
+        "scores": {
+            "metascore": "84",
+            "userscore": "8.3"
+        }
+    },
+    "91": {
+        "title": "Classic NES Series: The Legend of Zelda",
+        "date": "June 2, 2004",
+        "summary": "In this classic NES game, you'll embark on a quest to find the Triforce, slay Ganon, and save Princess Zelda. The Legend of Zelda comes to the Game Boy Advance, complete with all the dungeons, puzzles, and menacing enemies from the original game. As Link, you can brandish a variety of weapons, including swords, boomerangs, bombs, and arrows. Collect rupees to buy even more weapons and other special items. There are many secrets, hidden passages, and caves to be found in Hyrule--now you can see if you still have what it takes to find them.",
+        "scores": {
+            "metascore": "84",
+            "userscore": "8.6"
+        }
+    },
+    "92": {
+        "title": "Battlefield Vietnam",
+        "date": "March 14, 2004",
+        "summary": "The Battlefield franchise enters a new era equipped with more firepower, modernized weaponry and vehicles, and a deeper infantry experience from the jungles to the beaches of Vietnam. From villages on the Ho Chi Minh Trail to the city streets of Hue, wage modern warfare as the United States or North Vietnamese Army (NVA). Select from a variety of characters within the different soldier classes as you command powerful new vehicles including the UH-1 Huey helicopter, the M551 Sheridan tank, and the F-4 Phantom fighter jet on the U.S. side and the Russian-made T-54 tank, the MIG-21, and Mi-8 multipurpose helicopter on the NVA side. Go to war in new dramatic battle scenarios including leading a squadron of Huey helicopters in an all-out attack on an enemy compound, executing an ambush of enemy soldiers from dense foliage, captaining a PT boat through a dangerous jungle river passage, and more. Grab your M-16, ready the Napalm and prepare to enter some of the fiercest battles of the Vietnam War. [Electronic Arts]",
+        "scores": {
+            "metascore": "84",
+            "userscore": "7.6"
+        }
+    },
+    "93": {
+        "title": "Full Spectrum Warrior",
+        "date": "June 1, 2004",
+        "summary": "Full Spectrum Warrior is based on a game commissioned by the US Army to train light infantry troops in urban combat situations. The game places soldiers in a tense, hostile, and claustrophobic environment where they must complete a variety of military objectives. As the squad leader, you are in charge of providing direction to Alpha and Bravo fire teams. The successful Squad Leader effectively uses cover in the environment and moves his fire teams in a coordinated fashion so they can protect themselves from possible attacks that could come from any direction.",
+        "scores": {
+            "metascore": "84",
+            "userscore": "8.4"
+        }
+    },
+    "94": {
+        "title": "Jak 3",
+        "date": "November 9, 2004",
+        "summary": "One year has passed since Jak and Daxter saved Haven City from Kor and the attacking Metal Heads, yet Haven City is still immersed in deadly chaos as three groups fight for control of the streets. The people of Haven City have grown to distrust Jak's dark powers, and as rumors boil of Jak's ties with Krew and Kor, the city blames Jak for its current woeful circumstances. When the palace is destroyed by a surprise Metal Head attack, even Ashelin cannot protect Jak as the High Council's power broker, Count Veger, forces Jak into banishment to the desolate Wasteland. Jak is flown to the harsh island and dumped. With Daxter and Pecker bravely by his side, the three begin their next adventure where the battle for the city has just begun. Five times the size of Haven City, the Wasteland is a desert environment with multiple areas including mines and a volcano. Given the enormity and variance in terrain, vehicles play a large role as off-road transportation is introduced, fueled by a true-to-life physics engine. With a rugged new look and suited with armor, Jak is also equipped with an arsenal of new weapons with upgradeable mods that enable players to increase their firepower and enjoy the freedom to strategize and activate their arsenal at any time. As Jak has been exposed to Light Eco, players can now experience Jak's magnificent transformation to Light Jak. With a glowing electric blue aura and a massive wing span, Light Jak introduces new move sets, including the ability to glide great distances, emit an energy to block enemy attack, and power up at anytime, all of which provide the player with a sense of being invincible. Dark Jak also returns with more capabilities, forcing Jak to find a balance between light and dark. [SCEA]",
+        "scores": {
+            "metascore": "84",
+            "userscore": "8.7"
+        }
+    },
+    "95": {
+        "title": "Psi-Ops: The Mindgate Conspiracy",
+        "date": "June 14, 2004",
+        "summary": "Your most powerful weapon is your mind in Psi-Ops: The Mindgate Conspiracy, an action adventure game that combines Psi powers with weapons combat. A terrorist movement prepares to overthrow world order, you, an elite American Psi-operative soldier, must combat them. Practice powers of Telekinesis, Mind Control, Pyrokinesis, Mind Drain, Aura View, and Remote Viewing to win mind games against an army of brainwashed terrorists and powerful Psi agents. Fight through eight levels using your Psi powers, an arsenal of traditional weapons, and puzzle-solving skills.",
+        "scores": {
+            "metascore": "84",
+            "userscore": "7.8"
+        }
+    },
+    "96": {
+        "title": "James Bond 007: Everything or Nothing",
+        "date": "February 17, 2004",
+        "summary": "Think like Bond as never before, using espionage, tactical skills, and Q-Lab gadgets to analyze every situation. Act like Bond, using your stylish physical skills, clever disguises, and bold personality to once again save the world. With every Bond moment played out before you in an all-new, third-person cinematic perspective, this action-packed adventure could only come from the world of James Bond. What would Bond do? What will you do? [Electronic Arts]",
+        "scores": {
+            "metascore": "84",
+            "userscore": "8.4"
+        }
+    },
+    "97": {
+        "title": "Prince of Persia: Warrior Within",
+        "date": "November 30, 2004",
+        "summary": "The Prince has to embark upon a path of both carnage and mystery to defy his preordained death. His journey leads to the infernal core of a cursed island stronghold harboring mankind's greatest fears. Only through grim resolve, bitter defiance and the mastery of deadly new combat arts can the Prince rise to a new level of warriorship - and emerge from this ultimate trial with his life. In order to accomplish his mission, the Prince benefits from a brand new free-form fighting system that allows gamers to channel his anger as they wage battle without boundaries. Each game fan will find his or her own unique fighting style as they manipulate their environment and control the Ravages of Time. You can dig into an arsenal of weapons that, when used in combination, create advanced arm attacks that verge on fatal artistry! Prince of Persia: Warrior Within promises that game fans will fight harder, and play longer, emerging from the experience as deadly-capable skilled masters of their own unique combat art form. [Ubisoft]",
+        "scores": {
+            "metascore": "83",
+            "userscore": "8.5"
+        }
+    },
+    "98": {
+        "title": "NBA Live 2005",
+        "date": "September 28, 2004",
+        "summary": "Elevate your game on both ends of the court with NBA Live 2005. Create new dribble moves, flashy dunks, and tenacious defensive plays that express your individual style--all with a touch of the right analog stick. The new 10-man Freestyle implementation enhances individual player movements and floor spacing, putting you in the middle of the action. Enhanced player graphics reproduce NBA players with realistic faces, hairstyles, jerseys, and shoes. NBA Live 2005 also offers a deeper Dynasty mode, where you can watch your franchise flourish for 25 seasons.",
+        "scores": {
+            "metascore": "83",
+            "userscore": "7.1"
+        }
+    },
+    "99": {
+        "title": "ESPN NBA 2K5",
+        "date": "September 30, 2004",
+        "summary": "A new momentum based gameplay system that gives gamers a complete difference in control between various types of players. Now a player\u2019s ability and physical makeup will determine how fast they can run up the court on a fast break, how well they can cut to the basket off their opponent, and more, creating a new level of realism and natural team movement. Pioneering a new standard in artificial intelligence, computer-controlled players now have the ability to decide independently how they can best help their team and realistically react based on each human players\u2019 actions. CPU players determine the best way they can help win in accordance with each team\u2019s philosophy and distinct play sets. Beyond the Next Movement, IsoMotion2 improves upon the exciting dribble system of last year. Deftly perform spins, crossovers, and fakes outside the perimeter and now, in the post. Use enhanced IsoMotion2 on the defensive side to contain overaggressive ball-handlers and force turnovers. One of the most innovative features in sports games gets twice as big with over 100 new items, new timed mini games, and multi-player games. New respect level determines which player will answer your call for 24/7 games. [ESPN]",
+        "scores": {
+            "metascore": "83",
+            "userscore": "7.5"
+        }
+    },
+    "100": {
+        "title": "Silent Storm",
+        "date": "January 20, 2004",
+        "summary": "Silent Storm is a true 3D tactical turn-based Role-Playing-Game set against the backdrop of WWII. \r\nAs the conflict rages on the frontlines, you?ll be leading a small multinational squad behind enemy lines to gather information and wreak havoc on your enemies while trying to thwart a mysterious new rising power whose plans are even more horrific than anything the world has yet witnessed.\r\n\r\nSilent Storm is fully rendered in breathtaking 3D ? and includes fully destructible environments, realistic weaponry and unlimited tactical possibilities. Turn-based gaming has never looked this good! Choose your squad from over 40 operatives of 30 different nationalities, each with a unique background and mix of specialties and skills. [Encore/JoWood]",
+        "scores": {
+            "metascore": "83",
+            "userscore": "8.7"
+        }
+    }
+}
