@@ -4,6 +4,8 @@ import json
 import sys
 import os
 from tqdm import tqdm
+import threading
+import time
 
 
 def clear():
@@ -11,6 +13,57 @@ def clear():
         _ = os.system('cls')
     else:
         _ = os.system('clear')
+
+
+def scrape_games(year):
+    global boo
+    global pbar
+    url = "https://www.metacritic.com/browse/" + "games/score/metascore/year/" + \
+        "all/filtered?view=detailed&sort=desc&year_selected=" + str(year)
+    my_url = urllib3.PoolManager().request('GET', url).data
+    soup = BeautifulSoup(my_url, 'lxml')
+    body = soup.find('div', attrs={'class': 'body'})
+    try:
+        table = body.findChildren('table', attrs={'class': 'clamp-list'})[0]
+    except:
+        if boo:
+            clear()
+            print('Error: Metacritic has gotten too many connections from you')
+            print("I'll still gather as many as I can")
+        boo = False
+        quit()
+    rows = table.findChildren('td', attrs={'class': 'clamp-summary-wrap'})
+    final_dict = {}
+    i = 1
+    for row in rows:
+        game = {}
+        link = row.findChildren('a', attrs={'class': 'title'})[0]
+        # print(link)
+        content = link.findChildren('h3')[0]
+        title = content.contents[0].strip()
+        date = row.findChildren('div', attrs={'class': 'clamp-details'})[1]
+        summary = row.findChildren('div', attrs={'class': 'summary'})[
+            0].contents[0]
+        summary = summary.replace('\\n', '\n')
+        summary = summary.replace('\\r', '\r')
+        scores = row.findChildren(
+            'div', attrs={'class': 'browse-score-clamp'})[0]
+        metascore = scores.findChildren(
+            'div', attrs={'class': 'clamp-metascore'})[0]
+        metascore_raw = metascore.findChildren('div')[0].contents[0]
+        userscore = scores.findChildren(
+            'div', attrs={'class': 'clamp-userscore'})[0]
+        userscore_raw = userscore.findChildren('div')[0].contents[0]
+        scores_obj = {'metascore': metascore_raw, 'userscore': userscore_raw}
+        game['title'] = title
+        game['date'] = date.findChildren('span')[0].contents[0]
+        game['summary'] = summary.strip()
+        game['scores'] = scores_obj
+        final_dict[i] = game
+        i += 1
+        pbar.update(1)
+    with open(f'datasets/{year}.json', 'w+') as outfile:
+        outfile.write(json.dumps(final_dict, indent=4))
 
 
 clear()
@@ -39,8 +92,7 @@ except:
     quit()
 start, end = min([start, end]), max([start, end])
 if end - start >= 10:
-    print('This will take an estimated ' +
-          str((start - end) * 7.5) + ' seconds')
+    print('This has a high change of failing.')
     yesorno = input(
         'Are you sure you want to continue? ' + 'Input "yes" to do so\n')
     if yesorno != 'yes':
@@ -66,45 +118,16 @@ if start == 1998:
 if start == 1999:
     total_iter -= 48
 
-pbar = tqdm(total=total_iter, file=sys.stdout)
+pbar = tqdm(total=total_iter, file=sys.stdout)  # progress bar
 pbar.set_description('Total games')
+threads = []
+boo = True  # whether or not 429
 for year in range(start, end + 1):
-    url = "https://www.metacritic.com/browse/" + "games/score/metascore/year/" + \
-        "all/filtered?view=detailed&sort=desc&year_selected=" + str(year)
-    my_url = urllib3.PoolManager().request('GET', url).data
-    soup = BeautifulSoup(my_url, 'lxml')
-    body = soup.find('div', attrs={'class': 'body'})
-    table = body.findChildren('table', attrs={'class': 'clamp-list'})[0]
-    rows = table.findChildren('td', attrs={'class': 'clamp-summary-wrap'})
-    final_dict = {}
-    i = 1
-    for row in rows:
-        game = {}
-        link = row.findChildren('a', attrs={'class': 'title'})[0]
-        # print(link)
-        content = link.findChildren('h3')[0]
-        title = content.contents[0].strip()
-        date = row.findChildren('div', attrs={'class': 'clamp-details'})[1]
-        summary = row.findChildren('div', attrs={'class': 'summary'})[
-            0].contents[0]
-        summary = summary.replace('\\n', '\n')
-        summary = summary.replace('\\r', '\r')
-        scores = row.findChildren(
-            'div', attrs={'class': 'browse-score-clamp'})[0]
-        metascore = scores.findChildren(
-            'div', attrs={'class': 'clamp-metascore'})[0]
-        metascore_raw = metascore.findChildren('div')[0].contents[0]
-        userscore = scores.findChildren(
-            'div', attrs={'class': 'clamp-userscore'})[0]
-        userscore_raw = userscore.findChildren('div')[0].contents[0]
-        scores_obj = {'metascore': metascore_raw, 'userscore': userscore_raw}
-        game['title'] = content.contents[0].strip()
-        game['date'] = date.findChildren('span')[0].contents[0]
-        game['summary'] = summary.strip()
-        game['scores'] = scores_obj
-        final_dict[i] = game
-        i += 1
-        pbar.update(1)
-    with open(f'datasets/{year}.json', 'w+') as outfile:
-        outfile.write(json.dumps(final_dict, indent=4))
+    thread = threading.Thread(target=scrape_games, args=(year,))
+    threads.append(thread)
+for thread in threads:
+    thread.start()
+    time.sleep(1)
+for thread in threads:
+    thread.join()
 pbar.close()
