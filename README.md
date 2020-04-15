@@ -13,6 +13,7 @@ After that, you can run this script at any point in the future by running `pytho
 
 Note: Start and End year are both inclusive.
 
+Utilize the Tkinter GUI by running `python gui.py`
 ## Can I contribute?
 
 If there's any feature you want to add, start an Issue and a PR, and I'll check it and approve.
