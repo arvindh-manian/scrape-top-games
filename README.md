@@ -1,5 +1,5 @@
 # scrape-top-games
-Scrapes the top games from each year at https://metacritic.com
+Scrapes the top games from each year at https://metacritic.com and displays them in a TKinter GUI
 
 ## Why?
 Mostly for me to get experience with BS4 and multithreading, but I thought someone might also find the data sets useful.
